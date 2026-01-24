@@ -19,10 +19,9 @@ content:
         order: desc
     fields:
       - { name: title, label: Title, type: string, required: true }
-      - { name: date, label: Date, type: date, required: true }
+      - { name: date, label: Date, type: date, required: true, description: "Hugo hides future dates by default." }
       - { name: author, label: Author, type: string }
       - { name: description, label: Description, type: text, options: { rows: 3 } }
       - { name: tags, label: Tags, type: string, list: true }
       - { name: thumbnail, label: Thumbnail, type: image }
-      - { name: draft, label: Draft, type: boolean, default: false }
       - { name: body, label: Body, type: rich-text }
