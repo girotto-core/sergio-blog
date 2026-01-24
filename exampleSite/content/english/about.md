@@ -6,9 +6,6 @@ aliases = ["about-us", "about-hugo", "contact"]
 author = "Hugo Authors"
 +++
 
-# About Me: Sergio Girotto
-**Founder of Enex & Honorary President of Enex Technologies**
-
 I am an engineer and entrepreneur dedicated to one primary goal: proving that high-performance refrigeration can be achieved without harming the planet. Often recognized as a pioneer in the use of natural refrigerants, I have spent more than 30 years developing technologies that utilize carbon dioxide (CO2) as a sustainable alternative to synthetic gases.
 
 ## My Journey & Innovations
