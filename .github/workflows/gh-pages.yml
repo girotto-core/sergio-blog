@@ -36,7 +36,7 @@ jobs:
         uses: actions/configure-pages@v5
 
       - name: Build exampleSite
-        run: hugo --source exampleSite --themesDir ../.. --gc --minify
+        run: cd exampleSite && hugo --themesDir ../.. --gc --minify
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
