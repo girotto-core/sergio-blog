@@ -1,6 +1,6 @@
 
-title = "I'm Jane Doe"
-author = "Jane Doe"
+title = "Sergio Girotto"
+author = "Sergio Girotto"
 #copyright = "2020-2021"
 description = "Call me Sergio"
 profilePicture = "images/profile.jpg"
@@ -61,7 +61,7 @@ reversepagetitle = true # When set to 'true', the Window Title will be reversed 
 [[socialIcons]]
 icon = "fa-brands fa-linkedin"
 title = "Linkedin"
-url = "https://de.linkedin.com/"
+url = "https://www.linkedin.com/in/sergio-girotto-538223255/"
 
 [[socialIcons]]
 icon = "fa-brands fa-github"
