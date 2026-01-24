@@ -6,20 +6,4 @@ aliases = ["about-us", "about-hugo", "contact"]
 author = "Hugo Authors"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache License 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
-
-Hugo makes use of a variety of open source projects including:
-
-- https://github.com/yuin/goldmark
-- https://github.com/alecthomas/chroma
-- https://github.com/muesli/smartcrop
-- https://github.com/spf13/cobra
-- https://github.com/spf13/viper
-
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
-
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
-
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+Founder of Enex & Honorary President of Enex TechnologiesI am an engineer and entrepreneur dedicated to one primary goal: proving that high-performance refrigeration can be achieved without harming the planet. Often recognized as a pioneer in the use of natural refrigerants, I have spent more than 30 years developing technologies that utilize carbon dioxide ($CO_{2}$) as a sustainable alternative to synthetic gases.My Journey & InnovationsMy commitment to green technology accelerated after the Montreal Protocol. I saw an opportunity to look back at natural solutions to solve modern environmental challenges.1999–2001: I designed and oversaw the installation of the world’s first large-scale transcritical $CO_{2}$ refrigeration system for the supermarket sector.2004: I founded Enex. My vision was to create the first company in the world dedicated exclusively to designing systems that use only $CO_{2}$ refrigerant.Technological Milestones: Throughout my career, I have focused on pushing the boundaries of efficiency. This led to the development of the first flooded chiller in 2015 and the introduction of combined heating and refrigeration systems in 2018.I am proud to hold over 17 international patents, including work on liquid ejectors and high-efficiency cycles, which are now industry standards for reducing energy consumption and carbon footprints.
