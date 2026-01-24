@@ -2,7 +2,7 @@
 title = "Sergio Girotto"
 author = "Sergio Girotto"
 #copyright = "2020-2021"
-description = "Regrigeration expert"
+description = "Refrigeration expert"
 profilePicture = "images/tt.png"
 keywords = ""
 favicon = "favicons/"
@@ -62,11 +62,6 @@ reversepagetitle = true # When set to 'true', the Window Title will be reversed 
 icon = "fa-brands fa-linkedin"
 title = "Linkedin"
 url = "https://www.linkedin.com/in/sergio-girotto-538223255/"
-
-[[socialIcons]]
-icon = "fa-brands fa-github"
-title = "GitHub"
-url = "https://github.com/lxndrblz/anatole/"
 
 [[socialIcons]]
 icon = "fa-solid fa-envelope"
