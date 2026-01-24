@@ -59,4 +59,4 @@ enable = true
     #shortname = 'your-disqus-shortname'
 # Google Analytics
   [services.googleAnalytics]
-    #ID = 'G-NWGZH6JP6N'
+    ID = 'G-NWGZH6JP6N'
