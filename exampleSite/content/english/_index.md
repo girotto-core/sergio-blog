@@ -1,5 +1,7 @@
 +++
 author = "Hugo Authors"
+mainSections = ["post"]
+mainSectionsTitle = "Posts"
 +++
 
 <!--
