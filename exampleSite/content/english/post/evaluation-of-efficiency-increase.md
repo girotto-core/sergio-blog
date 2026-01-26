@@ -3,38 +3,60 @@ title = 'Evaluation of efficiency increase'
 date = '2026-01-15'
 author = 'sergio girotto'
 +++
-L’anidride carbonica è stata usata come refrigerante fin dagli anni ’20 del 20 secolo
+L’ anidride carbonica è stata usata come refrigerante fin dagli anni 20 del 20° secolo.
 
-Sono stati fatti molti studi per migliorare l’efficienza del ciclo
+Fin dagli inizi dell’applicazione di CO2 sono stati fatti molti studi per migliorare efficienza del ciclo in
 
-1)        Due stadi
+condizioni di alta temperatura di cessione del calore. La bassa temperatura critica penalizza infatti
 
-2)        Voorhees
+questo refrigerante alle condizioni ambiente di temperature elevata.
 
-3)        Plank
+a) Compressione in 2 stadi
 
-4)        Compressore ausiliario per la precompressione del vapore
+b) Voorhees
 
-5)        Recupero energia di espansione con una turbina
+c) Plank (postcompressione)
 
-Recentemente sono stati introdotti l’eiettore per la ricircolazione del liquido e per la precompressione. Ho partecipato direttamente negli anni 2011-2014 all’ideazione e alla messa a punto di questa soluzione.
+d) Compressione ausiliaria (ricompressione flash)
 
-I miglioramenti validi e che ormai sono considerati uno standard sono 1), 4) e 5).
+e) Recupero energia da espansione con turbina o espansore
 
-Sono gli unici miglioramenti dimostratisi efficienti, affidabili ed economici, nel senso che la loro adozione si ripaga in untempo ragionevole. non è così per altre soluzioni citate.
+f) Sottoraffreddamento post-gascooler
 
-Altre innovazioni proposte non si sono dimostrate tali, ad esempio il Pressure exchanger o la turbina/compressione,, ovvero il recupero di energia di espansione per comprimere….
+g) Raffreddamento evaporativo del gas cooler
 
-I motivi sono problemi tecnici e la compessità e il costo.
+Recentemente sono stati introdotti eiettore per alimentazione semi allagata e per la ricompressione.
 
-Cosa rimane?
+Ho partecipato direttamente negli anni 2011-2014 all’ideazione e alla messa a punto di quest’ultima
 
-Allo stato attuale non c'e nulla in vista. Ritornerò su un altro blog al Voorheess, per il quale va fatto un discorso a parte.
+soluzione, ma anche, in precedenza, allo sviluppo del compressore a 2 stadi, a), e alla ricompressione
 
-Seccondo me si deve lavorare su aspetti considerati secondari, ma che probabilmente hanno influenza molto significativva
+del flash, d).
 
-a) la regolazione delle macchine (stabilità pressione aspirazione, ottimizzazione pressione intermedia con compressori ausiliari,
+Considerazioni a parte vanno fatte per il metodo Voorhees, come dirò in seguito. A parte a) e d) le
 
-b) evitare o limitare le perdite, ad esempio le perditeper trafilamento
+altre soluzioni, specificamente c), e) non si sono dimostrate tecnicamente ed economicamente valide.
 
-c) limitare le perdite elettriche. il consumo per i componenti del quadro elettrico non sono insignificanti
+Il sottoraffreddamente, f), è stata la prima cosa venuta in mente ma il problema è il costo.
+
+Infatti alcuni dispositivi proposti per migliorare il rendimento hanno tempi di ritorno dell’investimento
+
+piuttosto alti.
+
+Cosa altro rimane? Allo stato attuale non c’è nulla altro in vista.
+
+Ritornerò con altro Blog sul metodo Voorhees.
+
+Per aumentare l’efficienza nell’immediato non rimane che lavorare su aspetti apparentemente
+
+secondari ma i cui benefici si ottengono a basso costo e, soprattutto, producono effetti tutto l’anno:
+
+\- Regolazione delle macchine
+
+\- Evitare o limitare le perdite normalmente trascurate, ad esempio quelle per
+
+trafilamento e per perdite di carico
+
+\- Limitare le perdite elettriche (consumo delle apparecchiature di comando e controllo)
+
+\- Limitare il consumo dei componenti “ausiliari”, quali resistenze olio, ventilatori e altro
