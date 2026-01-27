@@ -3,46 +3,50 @@ title = 'Evaluation of efficiency increase'
 date = '2026-01-15'
 author = 'sergio girotto'
 +++
-L’ anidride carbonica è stata usata come refrigerante fin dagli anni 20 del 20° secolo, quando gli unici refrigeranti erano alcuni fluidi naturali.
+**Efficiency**
 
-Fin dagli inizi dell’applicazione di CO2 sono stati fatti molti studi per migliorare efficienza del ciclo in condizioni di alta temperatura di cessione del calore. La bassa temperatura critica penalizza infatti questo refrigerante alle condizioni ambiente di temperature elevata.
+**Efficiency increase of CO2 refrigeration systems**
 
-I cicli modificati analizzati erano, sinteticamente, di questo tipo:
+Carbon dioxide has been used as a refrigerant since circa 1920, when the only refrigerants were some natural fluids.
 
-a) Compressione in 2 stadi, per temperature di evaporazione minori di -20°C
+Since the beginning of the application of CO2, many studies have been done to improve cycle efficiency under conditions of high temperature heat transfer. The low critical temperature penalizes this refrigerant in high temperature ambient conditions. This argument is interesting now due to high summer temperatures in Europe.
+
+The modified cycles analyzed were, briefly, of this type:
+
+a) 2-stage compression, for evaporation temperatures below -20°C
 
 b) Voorhees
 
-c) Plank (postcompressione e raffreddamento)
+c) Plank (post-compression and cooling)
 
-d) Compressione ausiliaria (ricompressione flash)
+d) Auxiliary compression (flash recompression)
 
-e) Recupero energia da espansione con turbina o espansore
+e) Energy recovery from expansion with turbine or expander
 
-f) Sottoraffreddamento post-gascooler
+f) Post-gas cooler subcooling
 
-g) Raffreddamento evaporativo del gas cooler
+g) Evaporative cooling of the gas cooler
 
-Recentemente sono stati introdotti eiettore per alimentazione semi allagata e per la ricompressione.
+Recently, ejectors for semi-flooded feeding of evaporators and flash gas pre-compression have been introduced.
 
-Ho partecipato direttamente negli anni 2011-2014 all’ideazione e alla messa a punto di quest’ultima soluzione, ma anche, in precedenza, allo sviluppo del compressore a 2 stadi, a), e alla ricompressione del flash, d).
+I participated directly in the years 2011-2014 in the conception and development of concepts using ejectors, but also, previously, in the development of the 2-stage compressor, a), and in the recompression of the flash, d).
 
-Considerazioni a parte vanno fatte per il metodo Voorhees, come dirò in seguito. A parte a) e d) le altre soluzioni, specificamente c), e) non si sono dimostrate tecnicamente ed economicamente valide.
+Separate considerations must be made for the Voorhees method, as I will say later. Apart from a) and d) the other solutions, specifically c), e) have not been proven technically and economically viable.
 
-Il sottoraffreddamente, f), è stata la prima cosa venuta in mente ma il problema è il costo.
+The subcooling, f), was the first thing that came to mind but the problem is the cost.
 
-Infatti alcuni dispositivi proposti per migliorare il rendimento hanno tempi di ritorno dell’investimento piuttosto alti.
+In fact, some devices proposed to improve performance have rather high payback times.
 
-Cosa altro rimane? Allo stato attuale non c’è nulla altro in vista.
+What else remains? At present, there is nothing else unexpected.
 
-Ritornerò con altro Blog sul metodo Voorhees.
+I will come back with another blog on the Voorhees method.
 
-Per aumentare l’efficienza nell’immediato non rimane che lavorare su aspetti apparentemente secondari ma i cui benefici si ottengono a basso costo e, soprattutto, producono effetti tutto l’anno:
+To increase efficiency in the immediate future, all what remains is to work on apparently secondary aspects but whose benefits are obtained at low cost and, above all, produce effects all year round:
 
-\- Regolazione delle macchine
+\- Capacity control more precise
 
-\- Evitare o limitare le perdite normalmente trascurate, ad esempio quelle per trafilamento e per perdite di carico
+\- to avoid or limit losses that are normally neglected, such as leakage and pressure drops
 
-\- Limitare le perdite elettriche (consumo delle apparecchiature di comando e controllo)
+\- to limit electrical losses (consumption of command and control equipment)
 
-\- Limitare il consumo dei componenti “ausiliari”, quali resistenze olio, ventilatori e altro
+\- to limit the consumption of "auxiliary" components, such as oil resistances, fans and more
