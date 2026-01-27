@@ -2,16 +2,16 @@
 title = 'Voorhees'
 date = '2026-01-23'
 +++
-Voorhees
+**Voorhees refrigeration cycle**
 
-T.Voorhees era un inventore americano che aveva proposto per i sistemi a CO2 un compressore, e un ciclo modificato.
+T. Voorhees was an American inventor who had proposed a modified reciprocating compressor for CO2 systems.
 
-Una “luce” posta in prossimità del punto morto inferiore (PMI) permetteva di aspirare una certa portata di vapore aspirando da una pressione intermedia, generalmente il ricevitore/separatore.
+A "suction port" placed in the cylinder near the lower dead center of piston allowed a certain flow rate of vapor to be sucked in by drawing from an intermediate pressure, generally the receiver/separator.
 
-Si otteneva un significativo aumento di portata, e quindi di capacità frigorifera, oltre a un leggero aumento di efficienza, almeno secondo i testi dell’epoca (ad esempio Ostertag).
+A significant increase in flow rate, and therefore in cooling capacity, could be obtained, as well as a slight increase in efficiency, at least according to the texts of the time (e.g. prof. Ostertag).
 
-Ho avuto l’opportunità di eseguire dei test su un compressore di questo tipo, un prototipo derivato da un compressore di serie, alcuni anni fa e abbiamo notato che il rendimento era superiore a quello stimato. Abbiamo misurato un rendimento superiore di circa il 10% rispetto al ciclo standard, oltre a una capacità superiore di circa il 40%.
+I had the opportunity to test a compressor of this type, a prototype derived from the modification of a production compressor, some years ago and we noticed that the performance was higher than the estimate. We measured about 10-15% higher EER (Energy Efficiency Ratio) than the standard cycle, as well as about 20% higher capacity.
 
-Lo svantaggio era piuttosto la difficoltà di collegare in parallelo due o più compressori di questo tipo, perché generalmente c’era un trafilamento di pressione a compressore fermo.
+The disadvantage was rather the difficulty of connecting two or more compressors of this type in parallel, because there was generally a pressure leakage when one of the compressors was stopped.
 
-Un impianto di questo tipo potrebbe però essere conveniente con un sistema monocompressore. Mi è tornato alla memoria questo fatto dopo aver visto un articolo di ricercatori italiani su una rivista scientifica. Questi ricercatori, dell’Università di Tor Vergata (Roma) proponevano di iniettare il vapore dalla pressione intermedia tramite delle valvole. Credo sia difficile, ma la “riscoperta” del metodo fa sperare per una rivisitazione e futura utilizzazione industriale di tale metodo.
+However, such a system could be cost-effective with a single-compressor system. I remembered this fact after seeing an article by a team of Italian researchers in a scientific journal. These researchers, from the University of Tor Vergata (Rome) proposed to inject vapor from the intermediate pressure through electric valves. I think it is difficult, but the "rediscovery" of the method gives hope for a revisiting this technology and a future industrial use of this method.
