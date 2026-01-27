@@ -8,36 +8,42 @@ tags = [
 ]
 thumbnail = 'images/landscape.jpg'
 +++
-## Accumulo termico con PCM (Phase Changing Material) o con acqua?
+**Thermal storage**
 
-### Introduzione
+**Thermal storage with PCM (Phase ChangingMaterial) or with water?**
 
-Nel settore del riscaldamento degli edifici, la scelta del sistema di accumulo termico è un aspetto cruciale per l’efficienza complessiva dell’impianto. Le due soluzioni più diffuse sono l’accumulo con acqua e l’accumulo con materiali a cambiamento di fase (PCM – Phase Changing Materials). Si tratta di tecnologie diverse, ognuna con specifici vantaggi e limiti, che devono essere valutati in funzione delle temperature di esercizio, dello spazio disponibile e della tipologia di pompa di calore utilizzata.
+In the sector of buildings heating the choice of thermal storage system is a crucial aspect for the overall efficiency of the system. The two most common solutions are water storage and phase change materials (PCM) storage. These are different technologies, each with specific advantages and limitations, which must be evaluated according to the operating temperatures, the available space and the type of heat pump used.
 
-### Accumulo termico con acqua
+**Thermal storage with water**
 
-Per il riscaldamento degli ambienti, l’accumulo con acqua risulta particolarmente efficace quando è possibile sfruttare una _ΔT (differenza di temperatura utilizzabile)_ dell’ordine di _30 K_. Al di sotto di questo valore, il volume di accumulo richiesto cresce in modo significativo, con conseguente aumento dell’ingombro.
+One system using water for heat storage is particularly effective when _ΔT (usable temperature difference)_ is in the order of _30 K_. Below this value, the required storage volume increases significantly, resulting in an increased footprint and space occupation.
 
-Con pompe di calore che lavorano con \*cessione di calore a temperatura variabile, come nel caso dei sistemi a \*\*CO₂ in regime transcritico, è possibile operare con ΔT comprese tra \*_25 e 30 K_ mantenendo un’elevata efficienza. Un esempio tipico è il riscaldamento dell’acqua da _30°C a 60°C_ all’uscita del gas cooler. A 30°C, il calore è ancora pienamente utilizzabile sia per il riscaldamento degli ambienti (tipicamente a 20°C), sia per la produzione di acqua calda sanitaria, considerando che l’acqua di rete entra generalmente nella pompa di calore a una temperatura inferiore ai _20–25°C_.
+With heat pumps that work with heat transfer at variable temperature, as in the case of  transcritical CO₂ heat pump systems, it is possible to operate, even with ΔT between _25 and 30K_ while still maintaining high efficiency. A typical example is the heating of water from _30°C  to 60°C_ in a counterflow heat exchanger, the gas cooler of a CO2 system. At 30°C, the heat is still fully usable both for space heating (typically at 20°C) and for the production of domestic hot water, considering that mains water generally enters the heat pump at a temperature below _20–25°C_.
 
-L’uso dell’acqua come mezzo di accumulo offre inoltre diversi vantaggi:
+The use of water as a storage medium also offers several advantages:
 
-*   _costo inferiore_ rispetto ai PCM;
-*   _flessibilità operativa_, poiché la temperatura di accumulo può essere impostata o modificata in qualsiasi momento;
-*   _migliore trasmissione del calore_, senza differenze di temperatura aggiuntive, dato che l’acqua stessa scambia direttamente calore con la pompa di calore e con l’impianto di riscaldamento.
+*   _lower cost_ than PCMs;
+    
+*   _operational flexibility_, as the storage temperature can be decided and changed at any time;
+    
+*   _better heat transfer_, without additional temperature differences, since the water itself exchanges heat directly with the heat pump and the heating system.
+    
 
-Tutto ciò contribuisce a una _maggiore efficienza termodinamica complessiva_ del processo di accumulo. Inoltre, lavorando con ΔT elevate, è possibile migliorare il _COP della pompa di calore_, sfruttando una temperatura media di cessione del calore più bassa, a condizione di una progettazione accurata dell’intero sistema.
+All this contributes to a _higher overall thermodynamic efficiency_ of the storage process. In addition, by working with high ΔT, it is possible to improve the _COP of the heat pump_, taking advantage of a lower mean heat transfer temperature, provided that the entire system is carefully designed.
 
-### Accumulo termico con PCM
+**Thermal storage with PCM**
 
-L’accumulo con materiali a cambiamento di fase presenta come principale vantaggio la \*ridotta occupazione di spazio. Questo aspetto diventa particolarmente rilevante quando la ΔT disponibile è \*_pari o inferiore a 20 K_, situazione in cui un accumulo ad acqua richiederebbe volumi molto elevati.
+The main advantage of heat storage with phase change materials is the limited space occupation. This becomes particularly relevant when the available ΔT is  e_qual to or less than 20K_, a situation in which a water storage tank would require very high volumes.
 
-Di contro, i PCM presentano alcuni limiti:
+On the other hand, PCMs have some limitations:
 
-*   _costo più elevato_ rispetto all’acqua;
-*   _temperatura di lavoro fissa_, definita in fase di progetto e non modificabile in seguito;
-*   _scambi termici meno efficienti_, che possono introdurre ulteriori differenze di temperatura e ridurre l’efficienza globale del sistema.
+*   _higher cost_ than water;
+    
+*   _fixed working temperature_, defined during the design phase and not modifiable later;
+    
+*   _less efficient heat_ exchanges, as a further temperature differences is necessary, so reducing the overall efficiency of the system.
+    
 
-### Conclusione
+**Conclusions**
 
-In sintesi, l’accumulo con acqua rappresenta una soluzione più economica, flessibile ed efficiente dal punto di vista termodinamico, soprattutto quando è possibile lavorare con ΔT elevate e con pompe di calore ben integrate nel sistema. L’accumulo con PCM diventa invece interessante nei casi in cui lo spazio disponibile è limitato e la differenza di temperatura utilizzabile è ridotta. La scelta tra le due tecnologie non è quindi assoluta, ma deve essere il risultato di una valutazione attenta delle condizioni di esercizio, delle esigenze impiantistiche e degli obiettivi di efficienza complessiva.
+In summary, water storage is a more economical, flexible and thermodynamically efficient solution when it is possible to work with high ΔT and heat pumps are well designed and integrated into the system. On the other hand, storage with PCM becomes interesting in cases where the available space is limited and the usable temperature difference is small. The choice between the two technologies is therefore not absolute, but it must be the result of a careful evaluation of the operating conditions, the plant requirements and the overall efficiency objectives.
