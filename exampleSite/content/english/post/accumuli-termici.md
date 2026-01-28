@@ -1,5 +1,5 @@
 +++
-title = 'Accumuli termici'
+title = 'Thermal storage'
 date = '2026-01-26'
 author = 'Sergio Girotto'
 description = 'Guide to Mermaid Diagrams in Hugo'
@@ -33,7 +33,7 @@ All this contributes to a _higher overall thermodynamic efficiency_ of the stora
 
 **Thermal storage with PCM**
 
-The main advantage of heat storage with phase change materials is the limited space occupation. This becomes particularly relevant when the available ΔT is  e_qual to or less than 20K_, a situation in which a water storage tank would require very high volumes.
+The main advantage of heat storage with phase change materials is the limited space occupation. This becomes particularly relevant when the available ΔT is  e\_qual to or less than 20K\_, a situation in which a water storage tank would require very high volumes.
 
 On the other hand, PCMs have some limitations:
 
