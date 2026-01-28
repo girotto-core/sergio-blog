@@ -3,6 +3,7 @@ title = 'Evaluation efficiency increase with CO2'
 date = '2026-01-15'
 author = 'sergio girotto'
 description = 'Is it possible to improve further EER with high ambient temperatures?'
+summary = 'Is it possible to improve further EER with high ambient temperatures?'
 +++
 **Efficiency increase of CO2 refrigeration systems**
 
