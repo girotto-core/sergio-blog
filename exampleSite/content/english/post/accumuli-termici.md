@@ -16,7 +16,7 @@ In the sector of buildings heating the choice of thermal storage system is a cru
 
 One system using water for heat storage is particularly effective when _ΔT (usable temperature difference)_ is in the order of _30 K_. Below this value, the required storage volume increases significantly, resulting in an increased footprint and space occupation.
 
-With heat pumps that work with heat transfer at variable temperature, as in the case of  transcritical CO₂ heat pump systems, it is possible to operate, even with ΔT between _25 and 30K_ while still maintaining high efficiency. A typical example is the heating of water from _30°C  to 60°C_ in a counterflow heat exchanger, the gas cooler of a CO2 system. At 30°C, the heat is still fully usable both for space heating (typically at 20°C) and for the production of domestic hot water, considering that mains water generally enters the heat pump at a temperature below _20–25°C_.
+With heat pumps that work with heat transfer at variable temperature, as in the case of  transcritical CO₂ heat pump systems, it is possible to operate, even with ΔT between 25 and 30K while still maintaining high efficiency. A typical example is the heating of water from _30°C  to 60°C_ in a counterflow heat exchanger, the gas cooler of a CO2 system. At 30°C, the heat is still fully usable both for space heating (typically at 20°C) and for the production of domestic hot water, considering that mains water generally enters the heat pump at a temperature below _20–25°C_.
 
 The use of water as a storage medium also offers several advantages:
 
