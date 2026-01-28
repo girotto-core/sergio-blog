@@ -22,6 +22,7 @@ content:
       - { name: date, label: Date, type: date, required: true, description: "Hugo hides future dates by default." }
       - { name: author, label: Author, type: string }
       - { name: description, label: Description, type: text, options: { rows: 3 } }
+      - { name: summary, label: Summary, type: text, options: { rows: 3 } }
       - { name: tags, label: Tags, type: string, list: true }
       - { name: thumbnail, label: Thumbnail, type: image }
       - { name: body, label: Body, type: rich-text }
