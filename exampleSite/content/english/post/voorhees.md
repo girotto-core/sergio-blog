@@ -1,6 +1,7 @@
 +++
 title = 'Voorhees'
 date = '2026-01-23'
+description = 'Could Voorhees refrigeration cycle still be considered?'
 +++
 **Voorhees refrigeration cycle**
 
