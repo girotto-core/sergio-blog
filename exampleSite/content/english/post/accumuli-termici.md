@@ -3,12 +3,13 @@ title = 'Thermal storage'
 date = '2026-01-26'
 author = 'Sergio Girotto'
 description = 'Guide to Mermaid Diagrams in Hugo'
+summary = 'Which one is the best choice?'
 tags = [
 	'thumbnail',
 ]
 thumbnail = 'images/landscape.jpg'
 +++
-**Thermal storage with PCM (Phase ChangingMaterial) or with water?**
+**Thermal storage with PCM (Phase Changing Material) or with water?**
 
 In the sector of buildings heating the choice of thermal storage system is a crucial aspect for the overall efficiency of the system. The two most common solutions are water storage and phase change materials (PCM) storage. These are different technologies, each with specific advantages and limitations, which must be evaluated according to the operating temperatures, the available space and the type of heat pump used.
 
