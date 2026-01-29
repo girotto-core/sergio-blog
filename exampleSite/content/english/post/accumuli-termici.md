@@ -3,7 +3,7 @@ title = 'Thermal storage'
 date = '2026-01-26'
 author = 'Sergio Girotto'
 description = 'Guide to Mermaid Diagrams in Hugo'
-summary = 'Which one is the best choice?'
+summary = 'Thermal storage with PCM or with water?'
 tags = [
 	'thumbnail',
 ]
