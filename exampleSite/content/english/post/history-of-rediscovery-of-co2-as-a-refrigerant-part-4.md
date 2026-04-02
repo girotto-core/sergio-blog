@@ -1,6 +1,6 @@
 +++
 title = 'History of rediscovery of CO2 as a refrigerant - part 4'
-date = '2026-04-02'
+date = '2026-05-10'
 +++
 ## Chapter 4: Technical Evolution – Booster, Economizer, and Double Stage
 
