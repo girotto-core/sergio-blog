@@ -1,6 +1,7 @@
 +++
-title = 'part 7'
+title = 'History of rediscovery of CO2 as a refrigerant - part 7'
 date = '2026-06-20'
+author = 'S.Girotto'
 +++
 ## Chapter 7: The Future is Natural – The Market Opens to the World
 
