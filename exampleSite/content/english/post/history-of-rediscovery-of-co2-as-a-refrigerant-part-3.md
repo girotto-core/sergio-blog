@@ -1,6 +1,6 @@
 +++
 title = 'History of rediscovery of CO2 as a refrigerant - part 3'
-date = '2026-04-02'
+date = '2026-05-01'
 +++
 ## Chapter 3: From Prototype to Market – The Birth of Enex
 
