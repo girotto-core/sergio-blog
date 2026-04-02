@@ -1,6 +1,6 @@
 +++
-title = 'part 6'
-date = '2026-06-02'
+title = 'History of rediscovery of CO2 as a refrigerant - part 6'
+date = '2026-06-10'
 +++
 ## Chapter 6: Beyond the CO2 Equator – Southern Europe and Total Integration
 
