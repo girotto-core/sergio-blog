@@ -1,5 +1,5 @@
 +++
-title = 'part 5'
+title = 'History of rediscovery of CO2 as a refrigerant - part 5'
 date = '2026-05-30'
 +++
 ## Chapter 5: A Stroke of Luck – The Era of the Ejector and the Market Test
