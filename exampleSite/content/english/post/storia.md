@@ -1,11 +1,13 @@
 +++
 title = 'Storia'
 date = '2026-04-01'
+author = 'S.Girotto'
 description = 'History of rediscovery of CO2 technology in refrigeration'
+summary = 'The rediscovery of CO2 as a refrigerant to be published in 7 parts'
 +++
-**A History**
 
-**The Rediscovery of CO2 as a Refrigerant**
+
+&nbsp;
 
 The rediscovery of carbon dioxide (CO2) as a refrigerant began in the late 1980s. Following an initial research phase that lasted until the early 1990s and the subsequent development of prototypes, mass production of machinery finally commenced in the early 2000s.
 
