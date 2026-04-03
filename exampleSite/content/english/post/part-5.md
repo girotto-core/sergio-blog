@@ -1,7 +1,9 @@
 +++
-title = 'History of rediscovery of CO2 as a refrigerant - part 5'
+title = ' History of a new technology - part 5'
 date = '2026-05-30'
 author = 'S.Girotto'
+description = 'History of rediscovery of CO2 as a refrigerant'
+summary = 'Period 2008 - 2013'
 +++
 ## Chapter 5: A Stroke of Luck – The Era of the Ejector and the Market Test
 
