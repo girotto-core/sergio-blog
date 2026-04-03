@@ -35,7 +35,7 @@ It was no longer just about "making things cold": the central unit was now capab
 
 In 2016, we introduced a radically new chiller design based on the principle of the **gravity-flooded evaporator**.
 
-Shortly after, we introduced a variant featuring the **ejector**—another Enex invention. This adjustment allowed for an efficiency improvement of approximately **10%** specifically during peak thermal conditions, where CO2 refrigerant chillers typically struggle the most.
+Shortly after we introduced a variant featuring the **ejector**—another Enex invention. This adjustment allowed for an efficiency improvement of approximately **10%** specifically during peak thermal conditions, where CO2 refrigerant chillers typically struggle the most.
 
 ---
 
