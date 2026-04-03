@@ -3,7 +3,7 @@ title = 'History of a new technology - part 1'
 date = '2026-04-10'
 author = 'S.Girotto'
 description = 'History of rediscovery of CO2 as a refrigerant'
-summary = "period 1985-1995\n"
+summary = "Period 1985-1995\n"
 +++
 ## Chapter 1: The Rediscovery of CO2​
 
