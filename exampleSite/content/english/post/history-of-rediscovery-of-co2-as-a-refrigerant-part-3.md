@@ -14,7 +14,7 @@ Moving from theory to commercial practice required a phased strategy. At the end
 In 1997, to accelerate the project's maturity, we introduced the first **subcritical** systems. The idea was to use CO2 only for low temperature (LT, evaporating from -35 to -40°C), while maintaining a conventional primary fluid for medium temperature.
 
 - **The Conegliano Success:** At the "Bingo" supermarket in Conegliano (TV), we installed the world's first subcritical low-temperature system in cascade with an indirect system (R134a chiller). This milestone drew interest from technicians across Europe. Other installations followed, including one in the UK that utilized Propane for the medium-temperature chiller.
-- **The Technical Lesson:** Despite the enthusiasm, limits emerged: the dual circuit, circulation pumps, and additional heat exchange reduced efficiency and increased complexity and cost. It was a compromise that only solved 20% of the environmental problem—in a supermarket context, only the low-temperature portion.
+- **The Technical Lesson:** Despite the enthusiasm, limits emerged: the dual circuit, circulation pumps, and additional heat exchange reduced efficiency and increased complexity and cost. It was a compromise that only solved maybe 20% of the environmental problem—in a supermarket context, only the low-temperature portion.
 
 ---
 
