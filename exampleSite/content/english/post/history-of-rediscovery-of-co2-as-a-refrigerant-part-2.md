@@ -1,6 +1,9 @@
 +++
-title = 'History of rediscovery of CO2 as a refrigerant - part 2'
+title = 'History of a new technology - part 2'
 date = '2026-04-20'
+author = 'S.Girotto'
+description = 'History of rediscovery of CO2 as a refrigerant'
+summary = 'Period 1995-2000'
 +++
 ## Chapter 2: The Return to the Source – Why Physics Beat Chemistry
 
