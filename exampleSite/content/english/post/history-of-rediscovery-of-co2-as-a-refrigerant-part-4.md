@@ -11,7 +11,7 @@ Following the completion of the first "full-scale" plant, we implemented numerou
 
 Meanwhile, another leader in commercial refrigeration, Linde Carrier, completed its first plant in Wettingen, Switzerland. Although it was a relatively simple system—single-stage for MT and cascade for LT—it was of significant size. For Enex and me, this was a positive sign; a sector leader was following in our footsteps. It was an implicit acknowledgment that we were on the right path.
 
-With the birth of Enex, our focus shifted radically: it was no longer enough to prove that CO2 was ecological. To succeed, it had to become technically and economically advantageous, adapting to all applications within the Retail sector—the market where we had decided to place our bet.
+With the birth of Enex, our focus shifted radically: it was no longer enough to prove that CO2 was ecological. To succeed, it had to become technically and economically advantageous, adapting to all applications within the Retail sector—the market where we had decided to place our initial bet.
 
 ---
 
