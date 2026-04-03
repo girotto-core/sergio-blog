@@ -26,7 +26,7 @@ We literally had to invent what was missing:
 
 - **Control:** We created a self-regulating mechanical system for high pressure, as nothing existed on the market.
 - **Mechanics:** We designed coaxial air/water heat exchangers certified for **120 bar**, building them ourselves.
-- **Chemistry:** We field-tested which lubricating oils were actually suitable and compatibl                                 We were writing the rules of the game while we were playing it.
+- **Chemistry:** We field-tested which lubricating oils were actually suitable and compatible. We were writing the rules of the game while we were playing it.
 
 ---
 
