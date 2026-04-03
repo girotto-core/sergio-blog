@@ -1,6 +1,9 @@
 +++
-title = 'History of rediscovery of CO2 as a refrigerant - part 3'
+title = 'History of a new technology - part 3'
 date = '2026-05-01'
+author = 'S.Girotto'
+description = 'History of rediscovery of CO2 as a refrigerant'
+summary = 'Period 1996-2004'
 +++
 ## Chapter 3: From Prototype to Market – The Birth of Enex
 
