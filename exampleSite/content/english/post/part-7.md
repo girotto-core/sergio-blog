@@ -21,7 +21,7 @@ Today, carbon dioxide competes on equal footing in large industrial plants, than
 
 ## Conclusions: A Forward-Looking Vision
 
-Thirty years after the first steps, the idea of reintroducing CO2 has proven to be a winning one. While the ozone hole is closing and European regulations (**F-Gas**) signal the end of synthetic gases, by 2026, R744 has become the standard solution in retail and a top choice in industry.
+Thirty years after the first steps, the idea of reintroducing CO2 has proven to be a winning one. While the ozone hole is recovering and European regulations (**F-Gas**) signal the end of synthetic gases, by 2026, CO2 has become the standard solution in retail and a top choice in industry.
 
 ### Lessons for the Future
 
