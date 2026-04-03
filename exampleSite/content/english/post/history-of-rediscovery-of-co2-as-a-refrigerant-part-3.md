@@ -36,7 +36,7 @@ The first "full-scale" plant arrived in 2002 in the province of Treviso, featuri
 
 However, radical innovation always collides with the unexpected. Two extreme events put the system to the test:
 
-1. **The Oil Emergency (Winter 2002-2003):** With temperatures dropping below 0°C at night, we discovered that—since the machines were outdoors—the CO2 in stationary compressors would condense, causing the oil and CO2 to separate. Upon restart, because the oil is lighter than liquid CO2, the oil pump would suck up the latter instead of the lubricant, destroying compressors in minutes.
+1. **The Oil Emergency (Winter 2002-2003):** With temperatures dropping much below 0°C at night, we discovered that—since the machines were outdoors—the CO2 in stationary compressors would condense, causing the oil and CO2 to separate. Upon restart, because the oil is lighter than liquid CO2, the oil pump would suck up the latter instead of the lubricant, destroying compressors in minutes.
 2. **The Record Summer (2003):** One of the hottest in history. The system held the pressure, but human factor "fragility" emerged. Maintenance errors led to the safety valves blowing at **160 bar**. The noise was so loud that neighbors called the Fire Department.
 
 The plant survived, but we realized that the technology demanded a new, incredibly high level of professionalism in maintenance and service. The results were presented at the **IIR conference in Washington in 2003**, sparking massive interest from technicians, particularly from Scandinavia.
@@ -45,7 +45,7 @@ The plant survived, but we realized that the technology demanded a new, incredib
 
 ### 4. 2004: Enex is Born
 
-After twenty years as an employee—rising from laboratory technician to technical director—I felt that the structure of a large company was not suited to the risks and speed required for this revolution.
+After twenty years as an employee—rising from being a laboratory technician to technical director—I felt that the structure of a large company was not suited to the risks and speed required for this revolution.
 
 On **March 1, 2004**, I founded **Enex**. The name is a synthesis of **En**ergy and **Ex**ergy (the part of energy that is actually usable). The concept of Exergy, a pillar of the second law of thermodynamics, embodied our mission: the highest possible efficiency.
 
