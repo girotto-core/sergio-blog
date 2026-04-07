@@ -2,6 +2,7 @@
 title = 'Voorhees'
 date = '2026-01-23'
 description = 'Could Voorhees refrigeration cycle still be considered?'
+summary = 'A kind of "economizer" with reciprocating compressors'
 +++
 **Voorhees refrigeration cycle**
 
