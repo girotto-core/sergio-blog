@@ -36,7 +36,7 @@ During those years, we witnessed a chaotic proliferation of new refrigerants and
 - **For manufacturers:** Every new fluid required lengthy compatibility and reliability tests.
 - **For technicians:** Managing dozens of different cylinders and oils became an unsustainable burden.
 
-Above all, there was no clear direction—a total lack of ideas on how to solve this situation at its root.
+Above all, there was no clear direction—a total lack of ideas on how to solve this situation at its root. Various methods were proposed, some of them difficult to believe today, e.g. acetone with CO2 or Flo-ice.
 
 ### 5. The Limitations of Indirect Systems
 
