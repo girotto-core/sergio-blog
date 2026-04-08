@@ -17,7 +17,7 @@ To keep things engaging, I will publish a short article every ten days; I have s
 
 **Acknowledgements.** The persons listed below have contributed substantially to the events described in this history. A big “thank you “ to all of them.
 
-Silvia Minetto - CNR
+Silvia Minetto - ITC-CNR (I)
 
 Gerald Heinzmann – Kaeltering (CH)
 
@@ -27,12 +27,12 @@ Raphael Gerber – Frigoconsulting (CH)
 
 Jonas Schoenenberger – Frigoconsulting (CH)
 
-Massimo Lorenzi – Intercold srl
+Massimo Lorenzi – Realtime srl (I)
 
 Armin Hafner – Sintef (N)
 
 Petter Neksa – Sintef (N)
 
- 
+
 
 Finally, a special “thank you” to eng. Mario Dorin 
