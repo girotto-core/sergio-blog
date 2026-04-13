@@ -5,19 +5,19 @@ author = 'S.Girotto'
 description = 'History of rediscovery of CO2 as a refrigerant'
 summary = "Period 1985-1995\n"
 +++
-## Chapter 1: The Rediscovery of CO2​
+## Chapter 1: The Rediscovery of CO2​ in refrigeration - 1985-1995
 
 ### 1. Introduction: The Era of Natural Fluids and the Advent of Synthetics
 
 Mechanical refrigeration took its first steps around 1850. Until 1930, systems exclusively used natural fluids, including ammonia, sulfur dioxide, and—starting in 1890—carbon dioxide.
 
-A major turning point occurred around 1930 with the synthesis of the first artificial refrigerants, such as R12 and R11. These "miracle" molecules quickly replaced almost all natural fluids, with the exception of ammonia, which remained the standard in large industrial plants. It was only fifty years later that the truth emerged: those synthetic substances that made refrigeration systems so simple and efficient were damaging the environment.
+A major turning point occurred around 1930 with the synthesis of the first artificial refrigerants, such as R12 and R11. These "miracle" molecules quickly replaced most of the natural fluids in use, with the exception of ammonia, which remained the standard in large industrial plants. It was only fifty years later that the truth emerged: those synthetic substances that made refrigeration systems so simple and efficient were damaging the environment.
 
 ### 2. The Montreal Protocol: An Industrial Earthquake
 
 The modern cooling industry grew up relying on synthetic refrigerants: CFCs (chlorofluorocarbons) and HCFCs (hydrochlorofluorocarbons). Both contained chlorine, the primary enemy of atmospheric ozone.
 
-In the decade between 1990 and 2000, I lived through this change on the front lines as the technical manager of a large commercial refrigeration company. It was a time when established certainties were overturned by scientific evidence. Studies by Rowland, Molina, and Crutzen (Nobel Prize winners in 1995) proved that chlorine and bromine were responsible for the "hole" in the ozone layer. The Montreal Protocol (1987) mandated the phase-out of these fluids; it was an environmental success, but for us, it was a true industrial earthquake.
+In the decade between 1990 and 2000, I lived through this change on the front lines as the technical manager of a large commercial refrigeration company. It was a time when established certainties were overturned by scientific evidence. Studies by Rowland, Molina, and Crutzen (Nobel Prize winners in 1995) proved that chlorine and bromine were responsible for the "hole" in the ozone layer. The Montreal Protocol (1987) mandated the phase-out of the fluids containing these elements; after several years we can say that Montreal Prtotocol was an environmental success, but at that time for the industry it was a kind of earthquake.
 
 ### 3. The Ozone Crisis and the Role of R22
 
@@ -34,7 +34,7 @@ To put it in perspective: just one kilogram of R404A released into the atmospher
 During those years, we witnessed a chaotic proliferation of new refrigerants and blends. Complexity increased drastically:
 
 - **For manufacturers:** Every new fluid required lengthy compatibility and reliability tests.
-- **For technicians:** Managing dozens of different cylinders and oils became an unsustainable burden.
+- **For technicians:** Managing several different cylinders and oils became an unsustainable burden.
 
 Above all, there was no clear direction—a total lack of ideas on how to solve this situation at its root. Various methods were proposed, some of them difficult to believe today, e.g. acetone with CO2 as a brine or Flo-ice.
 
@@ -42,7 +42,7 @@ Above all, there was no clear direction—a total lack of ideas on how to solve 
 
 To reduce the charge of synthetic gases, some companies tried the path of indirect systems: a reduced primary circuit cooled a secondary fluid (glycol water) to be pumped to the end users. However, field analysis revealed insurmountable physical limits:
 
-- **Low energy efficiency:** Intermediate heat exchangers and pumps for viscous liquids increased electricity consumption, making them unsustainable for low-temperature applications.
+- **Low energy efficiency:** Intermediate heat exchangers and pumps for viscous liquids increased electricity consumption, making not sustainable, at least for low-temperature applications, an indirect system.
 - **Low reliability:** The use of aggressive secondary fluids (such as potassium acetate) caused frequent corrosion.
 - **Costs:** Mechanical complexity made the systems more expensive and prone to failure.
 
