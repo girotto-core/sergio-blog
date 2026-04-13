@@ -5,7 +5,7 @@ author = 'S.Girotto'
 description = 'History of rediscovery of CO2 as a refrigerant'
 summary = "Period 1985-1995\n"
 +++
-## Chapter 1: The Rediscovery of CO2​ in refrigeration - 1985-1995
+## The Rediscovery of CO2​ in refrigeration
 
 ### 1. Introduction: The Era of Natural Fluids and the Advent of Synthetics
 
