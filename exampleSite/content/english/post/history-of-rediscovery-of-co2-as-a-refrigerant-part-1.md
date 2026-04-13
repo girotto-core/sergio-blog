@@ -52,4 +52,4 @@ To reduce the charge of synthetic gases, some companies tried the path of indire
 
 By the late 1990s, it was clear that adding layers of complexity or seeking new synthetic molecules was not the final solution. While Southern Europe remained anchored to old patterns, news filtered in from Northern Europe regarding the use of carbon dioxide (CO2​ or R744) as a phase-change secondary fluid.
 
-Using CO2​ not merely as a secondary fluid, but directly as the primary fluid—an idea that seemed obvious by that point—would not just be an evolution, but a revolution. In 1995, this meant embarking on a massive industrial effort: components had to be designed from scratch because they simply did not yet exist on the market.
+Using CO2​ not merely as a secondary fluid, but directly as the primary fluid—an idea that seemed obvious by that point—would not just be an evolution, but a revolution. In 1995, however, this meant embarking on a massive industrial effort: components had to be designed from scratch because they simply did not yet exist on the market.
