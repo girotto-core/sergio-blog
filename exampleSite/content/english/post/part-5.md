@@ -37,11 +37,9 @@ This configuration solved a historical limitation: it allowed the ejector to ope
 
 ---
 
-### 4. 2013: When Crisis Becomes Opportunity
+### 4. 2013: Expansion of CO2 to eastern countries
 
-Success is never linear. In 2013, Huurre suddenly decided to start its own internal production, cutting off orders to Enex. In just a few months, we lost **35% of our turnover**.
-
-It was a critical moment, but the crisis transformed into an opportunity. Thanks to the prestige earned through Swiss and Scandinavian installations, the **Eastern European market** unexpectedly opened up. Our "extreme" technology had become our best calling card, allowing us to restart stronger than before.
+Thanks to the prestige earned through Swiss and Scandinavian installations, the **Eastern European market** unexpectedly opened up. Our "extreme" technology had become our best calling card, allowing us to restart stronger than before. large retailers decided to use CO2 in Romania and Poland. Enex was one of the favorite suppliers
 
 ---
 
