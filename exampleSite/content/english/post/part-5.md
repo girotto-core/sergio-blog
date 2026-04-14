@@ -11,7 +11,7 @@ Between 2009 and 2013, transcritical CO2 technology was still considered a niche
 
 ### 1. The Alliance with Huurre and the Prestige of Harrods
 
-In 2009, the Finnish group **Huurre** acquired a minority stake in Enex. This partnership opened doors across Scandinavia and the United Kingdom. Within months, turnover grew significantly, and our reputation as an "innovation boutique" was consolidated with installations in prestigious locations, such as **Harrods** in London.
+In 2009, the Finnish group **Huurre** acquired a minority stake in Enex. This partnership opened doors across Scandinavia and the United Kingdom. Within months, turnover grew significantly, and our reputation as an "innovation boutique" was consolidated with installations in prestigious locations.
 
 While large industrial groups still viewed CO2 with caution or through exploratory acquisitions, Enex responded with bespoke engineering and unwavering conviction.
 
