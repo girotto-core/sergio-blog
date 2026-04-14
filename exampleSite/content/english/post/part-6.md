@@ -5,7 +5,7 @@ author = 'S.Girotto'
 description = 'History of rediscovery of CO2 as a refrigerant'
 summary = 'Period 2008-2013'
 +++
-## Chapter 6: Beyond the CO2 Equator – Southern Europe and Total Integration
+## Beyond the CO2 Equator – Southern Europe and Total Integration
 
 For years, the refrigeration sector—historically very traditionalist—fueled strong skepticism against carbon dioxide.
 
