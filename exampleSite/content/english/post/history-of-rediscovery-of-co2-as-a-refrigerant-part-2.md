@@ -5,7 +5,7 @@ author = 'S.Girotto'
 description = 'History of rediscovery of CO2 as a refrigerant'
 summary = 'Period 1995-1996'
 +++
-## The Return to the Source – Why Physics Beat Chemistry
+## The Return to basics – Why Physics Beat Chemistry
 
 In the 1990s, while the chemical industry was hunting for a new "magic molecule," thermodynamics suggested the opposite direction: instead of searching for a fluid suited to the standard refrigeration cycle, it was necessary to modify the system design to allow the use of a natural, non-toxic, and non-flammable fluid—namely, **CO2**.
 
