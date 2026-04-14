@@ -7,7 +7,7 @@ summary = 'Period 2016 - 2019'
 +++
 ## The Future is Natural – The Market Opens to the World
 
-After more than twenty years of successes and technical challenges, the reliability of CO2 systems is now a proven fact. Between 2018 and 2019, demand surged further: the market no longer asked only for small systems, but for increasingly larger machines. Enex responded by exceeding the **1 MW** cooling capacity threshold, paving the way for sectors that, until then, were dominated by traditional systems.
+in 2016 the industry supplied ...............After more than twenty years of successes and technical challenges, the reliability of CO2 systems is now a proven fact. Between 2018 and 2019, demand surged further: the market no longer asked only for small systems, but for increasingly larger machines. Enex responded by exceeding the **1 MW** cooling capacity threshold, paving the way for sectors that, until then, were dominated by traditional systems.
 
 ### 1. The New Frontiers of CO2
 
