@@ -5,7 +5,7 @@ author = 'S.Girotto'
 description = 'History of rediscovery of CO2 as a refrigerant'
 summary = 'Period 2004- 2008'
 +++
-## Chapter 4: Technical Evolution – Booster, Economizer, and Double Stage
+## Technical Evolution – Booster, Economizer, and Double Stage
 
 Following the completion of the first "full-scale" plant, we implemented numerous systems across Denmark and Sweden, and a few in Italy. Between 2003 and early 2004, about twenty systems were built. These machines were derived from the experience gained with the Treviso plant: units with parallel compressors, single-stage for MT (medium temperature) and internal compound two-stage for LT (low temperature), featuring an "open flash tank" type receiver.
 
