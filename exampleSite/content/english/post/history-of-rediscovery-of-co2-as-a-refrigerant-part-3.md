@@ -5,7 +5,7 @@ author = 'S.Girotto'
 description = 'History of rediscovery of CO2 as a refrigerant'
 summary = 'Period 1996-2004'
 +++
-## Chapter 3: From Prototype to Market – The Birth of Enex
+## From Prototype to Market – The Birth of Enex
 
 Moving from theory to commercial practice required a phased strategy. At the end of the 1990s, the market wasn't ready for a direct leap into pure transcritical systems; we had to "tame" the technology through intermediate steps, learning lessons that no refrigeration manual could have taught us.
 
