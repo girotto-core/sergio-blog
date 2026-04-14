@@ -5,7 +5,7 @@ author = 'S.Girotto'
 description = 'History of rediscovery of CO2 as a refrigerant'
 summary = 'Period 2016 - 2019'
 +++
-## Chapter 7: The Future is Natural – The Market Opens to the World
+## The Future is Natural – The Market Opens to the World
 
 After more than twenty years of successes and technical challenges, the reliability of CO2 systems is now a proven fact. Between 2018 and 2019, demand surged further: the market no longer asked only for small systems, but for increasingly larger machines. Enex responded by exceeding the **1 MW** cooling capacity threshold, paving the way for sectors that, until then, were dominated by traditional systems.
 
