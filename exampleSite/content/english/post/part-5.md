@@ -5,7 +5,7 @@ author = 'S.Girotto'
 description = 'History of rediscovery of CO2 as a refrigerant'
 summary = 'Period 2008 - 2013'
 +++
-## Chapter 5: A Stroke of Luck – The Era of the Ejector and the Market Test
+## A Stroke of Luck – The Era of the Ejector and the Market Test
 
 Between 2009 and 2013, transcritical CO2 technology was still considered a niche. For Enex, however, it was a period of extraordinary growth: we didn't try to convince everyone. Instead, we focused methodically on the few clients who believed in a natural future, continuously refining our technique.
 
