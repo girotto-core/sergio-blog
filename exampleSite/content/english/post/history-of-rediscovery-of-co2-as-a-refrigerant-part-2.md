@@ -7,7 +7,7 @@ summary = 'Period 1995-1996'
 +++
 ## The Return to basics – Why Physics Beat Chemistry
 
-In the 1990s, while the chemical industry was hunting for a new "magic molecule," thermodynamics suggested the opposite direction: instead of searching for a fluid suited to the standard refrigeration cycle, it was necessary to modify the system design to allow the use of a natural, non-toxic, and non-flammable fluid—namely, **CO2**.
+In the 1990s, while the chemical industry was hunting for a new "magic molecule," thermodynamics suggested the opposite direction: instead of searching for a fluid suited to the standard refrigeration cycle, it was necessary to modify the system design to allow the use of a natural, non-toxic, and non-flammable fluid, namely **CO2**.
 
 Choosing carbon dioxide (**R744**) meant clashing with a physical limit that had been considered insurmountable for decades: its low critical temperature (**31.1°C**).
 
@@ -23,7 +23,7 @@ There were no more new synthetic molecules capable of replacing old gases withou
 
 The work of **Professor Gustav Lorentzen** in Trondheim between the late 1980s and 1995 was the turning point. Lorentzen theorized that CO2 should not be used like traditional fluids.
 
-Above **31.1°C**, the fluid no longer condenses like a normal gas but enters a "**transcritical**" state (or "dense gas"). Although practical experiences dated back to the 1920s—primarily in the maritime sector—it was necessary to carefully evaluate the advantages and resolve the drawbacks:
+Above **31.1°C**, the fluid no longer condenses like a normal refrigeration fluid in use, but it enters a "**transcritical**" state (or "dense gas"). Although practical experiences dated back to the 1920s—primarily in the maritime sector—it was necessary to carefully evaluate the advantages and resolve the drawbacks:
 
 - **The Advantage:** High energy density and optimal heat exchange properties.
 - **The Challenge:** Very high operating pressures—up to **120 bar**, compared to the 15-20 bar of traditional systems.
