@@ -49,4 +49,4 @@ After twenty years as an employee—rising from being a laboratory technician to
 
 On **March 1, 2004**, I founded **Enex**. The name is a synthesis of **En**ergy and **Ex**ergy (the part of energy that is actually usable). The concept of Exergy, a pillar of the second law of thermodynamics, embodied our mission: the highest possible efficiency.
 
-Founding Enex was like setting sail into the open sea, amid general skepticism and the titanic challenge of industrializing natural cooling. Enex became fully operational by the end of 2004.
+Enex became fully operational by the end of 2004. It was the first company focused only on CO2 refrigeration. it was followed some years later by 2 other companies.
