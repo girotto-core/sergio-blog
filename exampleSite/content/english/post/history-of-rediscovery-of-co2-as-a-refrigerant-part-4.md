@@ -47,6 +47,6 @@ Despite the clear technical data, the initial market response was still characte
 
 There were, in that period, several attempts to design large heat pumps for sanitary hot water, similar to what was happening in Japan after the success of small "Ecocute". All that was important also for refrigeration, as Swep developed - for the promising market of heat pumps - a high pressure water cooled gas cooler, model B16DW, which could be used as heat recovery heat exchanger in refrigeration units for retail. Moreover, Dorin compressors were improved in order to bring at highest level their reliability.
 
-For Enex a commercial turning point came from Switzerland in 2007. Thanks to the foresight of partners like Frigo Consulting and Kaeltering, we installed several cutting-edge systems. We were not the cheapest option on the market, but we were the only ones capable of guaranteeing high performance, reliability, and superior construction quality, despite using a technology that the rest of the world still considered "experimental."
+For Enex a commercial turning point came from Switzerland in 2007. Thanks to the foresight of partners like Frigo Consulting and Kaeltering, we installed several cutting-edge systems. The main market for Advansor was initially UK, and in particular a large retailer. There as a systematic lack of components, as valves, for example, but at this point it was possible
 
 In general however the market was very limited.
