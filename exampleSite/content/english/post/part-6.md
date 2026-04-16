@@ -41,7 +41,7 @@ It was no longer just about "making things cold": the central unit was now capab
 
 In 2016, Enex, first, introduced a radically new chiller design based on the principle of the **gravity-flooded evaporator, new for CO2,** but well known in ammonia systems. installations were done in Finland with Huurre, in industrial plants.
 
-in that period also Green&Cool was installing some CO2 systems 
+a sector was the winaryes.......... 
 
 Shortly after it was introduced a variant featuring the **ejector**—another Enex invention. This adjustment allowed for an efficiency improvement of approximately **10%** specifically during peak thermal conditions, where CO2 refrigerant chillers typically struggle the most.
 
