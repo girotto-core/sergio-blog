@@ -13,7 +13,7 @@ Meanwhile, another leader in commercial refrigeration, Linde Carrier, completed 
 
 The company Bock had already  available a small trascritical "open type" compressor at prototype level.
 
-It was clear at this point that, even if everything was still at "field test" stage, there were more players exploring the new technology.
+It was clear at this point that, even if everything was still at "field test" stage, there were more players exploring the new technology, however still at an early stage.
 
 ---
 
@@ -31,7 +31,7 @@ The new design proved to be quite difficult to calculate, due to huge variation 
 
 ### 2. Booster Systems and Double Stage: Efficiency in Retail
 
-In 2007 two new companies entered the market. One was in Denmark - Advansor - and the other in Sweden - Green&Cool; I knew both founders very well as we had contact in the past years for the plants we built, with Costan, in Scandinavia.
+In 2007 two new companies entered the market. One of them was based in Denmark - Advansor - and the other in Sweden - Green&Cool; I knew both founders very well as we had contact in the past years for the plants we built, with Costan, in Scandinavia.
 
 Between 2007 and 2008, one of the most pressing challenges for supermarkets was reached: managing both "fresh" (medium temperature) and "frozen" (low temperature) products with a single central unit.
 
