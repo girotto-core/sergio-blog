@@ -9,23 +9,29 @@ summary = 'Period 2014-2016'
 
 For years, the refrigeration sector—historically very traditionalist—fueled strong skepticism against carbon dioxide.
 
-In the beginning, "experts" told us that CO2 was simply not suitable for refrigeration at all. A few years later, faced with the evidence of the first successful plants, the criticism shifted: it was said to be a solution limited to the cold climates of Northern Europe. Detractors even spoke of a **"CO2 Equator,"** an imaginary latitudinal boundary below which the technology would never be cost-effective.
+In the beginning, "experts" were saying that CO2 was simply not suitable for refrigeration at all. A few years later, faced with the evidence of the first successful plants, the criticism shifted: it was said to be a solution limited to the cold climates of Northern Europe. Detractors even spoke of a **"CO2 Equator,"** an imaginary latitudinal boundary below which the technology would never be cost-effective.
 
-Enex’s challenge was to tear down these prejudices, proving that with the right technical architecture (optimized cycles and ejectors), R744 is competitive even under the Mediterranean sun.
+The challenge in that period was to tear down these prejudices, proving that with the right technical architecture (optimized cycles and ejectors), R744 was competitive even under the Mediterranean sun.
 
 ---
 
 ### 1. Conquering Southern and Eastern Europe
 
-The turning point of 2013, despite the loss of our Finnish partner, allowed us to react with strength. Thanks to the reputation built in Switzerland, a major French retailer entrusted us with two pilot projects: one in Italy and one in Spain.
+The turning point for the expansion in the southern Europe was 2013.
 
 The success of these sites finally opened doors to markets where skepticism had previously reigned (France, Spain, and Italy itself). shortly after, the wave of innovation reached Eastern Europe, with the first plants in Poland, Croatia, and Romania.
+
+Advansor (Dover) mainly was expanding the sales in its market, concentrating in standardization, while Enex was more specialized in development and R&D, thanks to the connections with Sintef and CNR of Padova. a good help came from Shecco, with its informative activity.
+
+More suppliers introduced components designed for CO2, so competition started.
+
+In 2014 the new F-gas regulation was in preparation. It entered in force 1st of January 2015. It introduced clear limitations to the use of syntetic refrigerants, finally convincing most of the users that natural fluids were the right choice for the future. of course CO2, being no toxic and non flammable, was the candidate for retain and light industrial refrigeration.
 
 ---
 
 ### 2. Italy and the "All-in-One" System
 
-A decisive chapter opened in 2014 in Trentino-Alto Adige. Collaborating with a trusted local installer for a major regional retailer, Enex began implementing revolutionary combined systems.
+Another decisive chapter opened in 2014 in Trentino-Alto Adige. Collaborating with a trusted local installer for a major regional retailer, Enex began implementing revolutionary combined systems.
 
 It was no longer just about "making things cold": the central unit was now capable of **simultaneously producing refrigeration and space heating**. A few years later, we integrated summer air conditioning into the system, transforming the refrigeration rack into the true energy heart of the building.
 
@@ -33,9 +39,11 @@ It was no longer just about "making things cold": the central unit was now capab
 
 ### 3. The Chiller with Flooded Evaporator
 
-In 2016, we introduced a radically new chiller design based on the principle of the **gravity-flooded evaporator**.
+In 2016, Enex, first, introduced a radically new chiller design based on the principle of the **gravity-flooded evaporator, new for CO2,** but well known in ammonia systems. installations were done in Finland with Huurre, in industrial plants.
 
-Shortly after we introduced a variant featuring the **ejector**—another Enex invention. This adjustment allowed for an efficiency improvement of approximately **10%** specifically during peak thermal conditions, where CO2 refrigerant chillers typically struggle the most.
+in that period also Green&Cool was installing some CO2 systems 
+
+Shortly after it was introduced a variant featuring the **ejector**—another Enex invention. This adjustment allowed for an efficiency improvement of approximately **10%** specifically during peak thermal conditions, where CO2 refrigerant chillers typically struggle the most.
 
 ---
 
