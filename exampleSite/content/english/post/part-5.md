@@ -7,13 +7,11 @@ summary = 'Period 2008 - 2013'
 +++
 ## A Stroke of Luck – The Era of the Ejector and the Market Test
 
-Between 2009 and 2013, transcritical CO2 technology was still considered a niche. For Enex, however, it was a period of extraordinary growth: we didn't try to convince everyone. Instead, we focused methodically on the few clients who believed in a natural future, continuously refining our technique.
+Between 2009 and 2013, transcritical CO2 technology was still considered a niche, nevertheless it started to attract larger comanies. a first consequence was the acquisition or the partnership of large companies with the 3 companies working on CO2 and founded between 2004 and 2007. Dover group took over Advansor, Carrier took over Gree&Cool and Huurre, a Finnish group, acquired a minority stake in Enex. it was the first signal of the interest of the market, even before a real significant increase in sales. 
 
-### 1. The Alliance with Huurre and the Prestige of Harrods
+### 1. The consolidation of business
 
-In 2009, the Finnish group **Huurre** acquired a minority stake in Enex. This partnership opened doors across Scandinavia and the United Kingdom. Within months, turnover grew significantly, and our reputation as an "innovation boutique" was consolidated with installations in prestigious locations.
-
-While large industrial groups still viewed CO2 with caution or through exploratory acquisitions, Enex responded with bespoke engineering and unwavering conviction.
+The markets were now UK, Scandinavia and Denmark, Switzerland
 
 ---
 
@@ -25,7 +23,7 @@ The real breakthrough at Enex came from an intuition born during a test gone wro
 
 - **The Unexpected:** While testing an ejector on a heat pump, we noticed it wasn't performing according to the calculations, but it was behaving as an excellent "liquid pump."
 - **The Intuition:** "What if we used it to recirculate refrigerant in the evaporators?" Thus, the concept of the **overfed (or semi-flooded) evaporator** was born.
-- **The Result:** The first real plant, installed in **Lahti, Finland**, showed an average efficiency increase of **20-25%**. This technological leap, protected by a series of patents, changed the rules of cooling in 2010.
+- **The Result:** The first real plant, installed by Enex in **Lahti, Finland**, showed an average efficiency increase of **20-25%**. This technological leap, protected by a series of patents, changed the rules of cooling in 2010.
 
 ---
 
