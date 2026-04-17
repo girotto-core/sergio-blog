@@ -9,11 +9,9 @@ summary = 'Period 2008 - 2013'
 
 ### 1. The consolidation of business
 
-Between 2009 and 2013, transcritical CO2 technology was still considered a niche, nevertheless it started to attract large companies. The first consequence was the acquisition, or the partnership, of large companies with the 3 companies working on CO2 and founded between 2004 and 2007. Dover group took over Advansor, Carrier took over Green&Cool and Huurre, a Finnish group, acquired a minority stake in Enex. It was the first signal of the interest of the market, even before a real significant increase in sales. 
+Between 2009 and 2013, transcritical CO2 technology was still considered a niche, nevertheless it started to attract large companies. The first consequence was the acquisition, or the partnership, of large companies with the 3 companies specialized in CO2 and founded between 2004 and 2007. Dover group took over Advansor, Carrier took over Green&Cool and Huurre, a Finnish group, acquired a minority stake in Enex. It was the first signal of the interest of the market, even before a real significant increase in sales. 
 
 
-
----
 
 ### 2. The Ejector Revolution: An Unexpected Discovery
 
@@ -35,13 +33,13 @@ Initially Enex produced directly the ejectors based on a design made by Sintef. 
 
 The configurations developed solved a limitation: it allowed the ejector to operate continuously and stably in all environmental conditions, without the need for complex control devices.
 
-In Switzerland the cooperation between Frigoconsulting, Kaeltering and Enex allowed to make preliminary tests with other devices, like for example with an expander.
+In Switzerland the cooperation between Frigoconsulting, Kaeltering and Enex allowed to make preliminary tests with other devices, like for example with an expander. However the ejector, theoretically less efficient, was superior due to intrinsic simplicity.
 
 ---
 
 ### 4. 2013: Expansion of CO2 to eastern countries
 
-Thanks to the prestige earned through Swiss and Scandinavian installations, the **Eastern European market** unexpectedly opened up. Large retailers decided to use CO2 in Romania and Poland. Enex and Green&Cool (Carrier) were the competing suppliers for these installations.
+Thanks to the prestige earned through Swiss and Scandinavian installations, the **Eastern European market** unexpectedly opened up. Some large retailers decided to use CO2 in Romania and Poland for some hypermarkets. Enex and Green&Cool (Carrier) were the competing suppliers for these installations.
 
 ---
 
