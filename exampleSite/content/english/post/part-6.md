@@ -23,7 +23,7 @@ The success of these sites finally opened doors to markets where skepticism had 
 
 Advansor (Dover) mainly was expanding the sales in its market, concentrating in standardization, while Enex was more specialized in development and R&D, thanks to the connections with Sintef and CNR of Padova. a good help came from Shecco, with its informative activity.
 
-More suppliers introduced components designed for CO2, so competition started.
+More suppliers introduced components designed for CO2, so competition at all level started.
 
 In 2014 the new F-gas regulation was in preparation. It entered in force 1st of January 2015. It introduced clear limitations to the use of syntetic refrigerants, finally convincing most of the users that natural fluids were the right choice for the future. of course CO2, being no toxic and non flammable, was the candidate for retain and light industrial refrigeration.
 
