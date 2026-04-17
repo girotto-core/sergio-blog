@@ -21,9 +21,9 @@ It was clear at this point that, even if everything was still at "field test" st
 
 in 2006 Danfoss released some field test valves for high pressure control, that is the model ICMTS, derived from a valve from industrial refrigeration, together with a proper controller, EKC326. The new devices made it possible to apply a proper control of pressure in liquid receiver, different from the first systems with a floating intermediate pressure. Enex started experiments of an innovative concept for CO2 systems: the **economizer**.
 
-This device was designed to significantly improve machine efficiency when outdoor temperatures rise. In such conditions, flash vapor production increases; by using a two-stage expansion scheme and having an auxiliary compressor for suction of the flash vapor, we managed to drastically increase cycle performance.
+This device was designed to significantly improve machine efficiency when outdoor temperatures rise. In such conditions, flash vapor production increases; by using a two-stage expansion scheme and having an auxiliary compressor for suction of the flash vapor from intermediate receiver, we managed to drastically increase cycle performance.
 
-The first large-scale real-world application followed in 2008, in Freiburg.
+The first large-scale real-world application for a system with economizer followed in 2008, in Freiburg.
 
 The control of new design proved to be quite difficult, due to huge variation of flash vapor mass flow.
 
