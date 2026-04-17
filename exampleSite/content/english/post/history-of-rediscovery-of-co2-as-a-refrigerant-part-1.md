@@ -27,7 +27,7 @@ The market was searching for the "ultimate refrigerant," but a new obstacle soon
 
 ### 4. From the Ozone Problem to Global Warming (GWP)
 
-While efforts were being made to save the ozone, the issue of the greenhouse effect and global warming emerged with force. To measure the impact of these fluids, GWP (**Global Warming Potential**) was defined. New gases like R404A or R134a, despite being "Ozone Friendly," turned out to be extremely potent greenhouse gases.
+While efforts were being made to save the ozone, the issue of the greenhouse effect and global warming emerged with force. To measure the impact of these fluids, GWP (**Global Warming Potential**) was defined. New refrigerants like R404A or R134a, despite being "Ozone Friendly," turned out to be extremely powerful greenhouse gases.
 
 To put it in perspective: just one kilogram of R404A released into the atmosphere has an impact equivalent to nearly **4 tons of CO2​**.
 
