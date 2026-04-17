@@ -38,8 +38,8 @@ The first "full-scale" plant arrived in 2002 in the province of Treviso, featuri
 
 However, radical innovation always collides with the unexpected. Two extreme events put the system to the test:
 
-1. **The Oil Emergency (Winter 2002-2003):** With temperatures dropping much below 0°C at night, we discovered that—since the machines were outdoors—the CO2 in stationary compressors would condense, causing the oil and CO2 to separate. Upon restart, because the oil adopted was lighter than liquid CO2, the oil pump sucked up the latter instead of the lubricant, destroying compressors in minutes.
-2. **The Record Summer (2003):** One of the hottest in history. The system held the pressure, but human factor "fragility" emerged. Maintenance errors led to the safety valves blowing at **160 bar**. The noise was so loud that neighbors called the Fire Department.
+1. **The Oil Emergency (Winter 2002-2003):** With temperatures dropping much below 0°C at night, we discovered that—since the machines were outdoors—the CO2 in idle compressors would condense, causing the oil and CO2 to separate. Upon restart, because the oil adopted was lighter than liquid CO2, the oil pump sucked up the latter instead of the lubricant, destroying compressors in minutes.
+2. **The Record Summer (2003):** One of the hottest since then, up to almost 40°C. The system held the pressure, but human factor "fragility" emerged. Maintenance errors led to the safety valves blowing at **160 bar**. The noise was so loud that neighbors called the Fire Department.
 
 The plant survived, but we realized that the technology demanded a new, much higher level of professionalism in maintenance and service. The results from that plant were presented at the **IIR conference in Washington in 2003**, sparking massive interest from technicians, particularly from Scandinavia.
 
