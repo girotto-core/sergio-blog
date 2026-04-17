@@ -21,9 +21,11 @@ The turning point for the expansion in the southern Europe was 2013.
 
 The success of these sites finally opened doors to markets where skepticism had previously reigned (France, Spain, and Italy itself). shortly after, the wave of innovation reached Eastern Europe, with the first plants in Poland, Croatia, and Romania.
 
+Different manufacturing techniques were studied by the manufacturers. For example some used welded carbon steel for the piping, while others adopted stainless steel. It was an important element, much different from previous refrigeration installations with HFC, where brazed copper was used.
+
 Advansor (Dover) mainly was expanding the sales in its market, concentrating in standardization, while Enex was more specialized in development and R&D, thanks to the connections with Sintef and CNR of Padova. a good help came from Shecco, with its informative activity.
 
-More suppliers introduced components designed for CO2- compressors, valves and heat exchangers - so competition at all level started.
+More suppliers introduced components designed for CO2- compressors, valves and heat exchangers - so competition at all level started. A "new" alloy (K65) was introduced by Wieland, which for small plants allowed to use brazing process, instead of the more demanding welding.
 
 In 2014 the new F-gas regulation was in preparation. It entered in force 1st of January 2015. It introduced clear limitations to the use of syntetic refrigerants, finally convincing most of the users that natural fluids were the right choice for the future. Of course CO2, being no toxic and non flammable, was the candidate for retail refrigeration and light industrial refrigeration.
 
@@ -39,7 +41,7 @@ It was no longer just about "making things cold": the central unit was now capab
 
 ### 3. The Chiller with Flooded Evaporator
 
-In 2016, Enex, first, introduced a radically new chiller design based on the principle of the **gravity-flooded evaporator, new for CO2,** but well known in industrial ammonia systems. Installations for skating rinks were done in Scandinavia by Green&Cool and Huurre, and in general in industrial plants.
+In 2016, Enex introduced a radically new chiller design based on the principle of the **gravity-flooded evaporator, new for CO2,** but well known in industrial ammonia systems. Installations for skating rinks were done in Scandinavia by Green&Cool and Huurre, and by all the companies in general in light-industrial plants.
 
 A new sector for CO2 chillers was the nort-Italian wineries, introducing environmental advantages in this sector. 
 
@@ -51,8 +53,8 @@ Shortly after it was introduced a variant of gravity-fed chillers featuring the 
 
 One of the most extraordinary thermodynamic advantages of CO2 in the transcritical cycle is the gas temperature at the compressor outlet. While in traditional systems the discharge heat is at a low temperature and difficult to reuse, with CO2, the refrigerant temperature after compression can exceed **90-100°C**.
 
-- **Hot Water and Heating:** We developed solutions to recover this heat to produce domestic hot water or space heating, practically at zero cost.
-- **Total Integration:** In modern supermarkets, an Enex unit eliminates the need for gas boilers or separate systems.
+- **Hot Water and Heating:** since 2008 solutions were developed to recover part of the heat available, so as to produce domestic hot water or space heating, practically at zero cost.
+- **Total Integration:** In modern supermarkets, the new units eliminated the need for gas boilers or separate systems.
 
 Essentially, the heat "extracted" from the refrigerated display cases to preserve food becomes the resource used to heat the store and the sanitary water. A perfect example of the circular economy applied to engineering.
 
