@@ -43,7 +43,7 @@ Above all, there was no clear direction—a total lack of ideas on how to solve 
 To reduce the charge of synthetic gases, some companies tried the path of indirect systems: a reduced primary circuit cooled a secondary fluid (glycol water) to be pumped to the end users. However, field analysis revealed insurmountable physical limits:
 
 - **Low energy efficiency:** Intermediate heat exchangers and pumps for viscous liquids increased electricity consumption, making not sustainable, at least for low-temperature applications, an indirect system.
-- **Low reliability:** The use of aggressive secondary fluids (such as potassium acetate) caused frequent corrosion.
+- **Low reliability:** The use of aggressive secondary fluids (such as formiate or potassium acetate) caused frequent corrosion.
 - **Costs:** Mechanical complexity made the systems more expensive and prone to failure.
 
 ---
