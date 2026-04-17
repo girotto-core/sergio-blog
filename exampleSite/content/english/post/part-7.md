@@ -9,14 +9,14 @@ summary = 'Period 2016 - 2019'
 
 Starting from 2016 more and more companies introduced gradually CO2 units to their range.
 
-After more than twenty years of successes and technical challenges, the reliability of CO2 systems is now a proven fact. Between 2018 and 2019, demand surged further: the market no longer asked only for small systems, but for increasingly larger machines. The industry responded by exceeding the **1 MW** cooling capacity threshold, paving the way for sectors that, until then, were dominated by traditional systems.
+After more than twenty years of successes and technical challenges, the reliability of CO2 systems was now a proven fact. Between 2018 and 2019, demand surged further: the market no longer asked only for small systems, but for increasingly larger machines. The industry responded by exceeding the **1 MW** cooling capacity threshold, paving the way for sectors that, until then, were dominated by traditional systems.
 
 ### 1. The New Frontiers of CO2
 
 Today, carbon dioxide competes on equal footing in large industrial plants, thanks to three fundamental applications:
 
-- **Logistics Distribution Centers:** CO2 avoids the toxicity risks associated with ammonia and reduces costs by distributing the refrigerant directly to the evaporators, often integrating heat recovery.
-- **Industrial Heat Pumps:** A true revolution in heating. Thanks to specialized hydronic circuits, we produce high-temperature heat (**60-65°C**) with zero environmental impact.
+- **Logistics Distribution Centers:** CO2 avoids the toxicity risks associated with ammonia and reduces costs by distributing the refrigerant directly to the evaporators, often integrating heat recovery. In 2018 a large plant included, for the first time, hot gas defrost, using low pressure/high temperature fluid.
+- **Industrial Heat Pumps:** A true revolution in heating. Thanks to specialized hydronic circuits, it is possible to produce high-temperature heat (**60-65°C**) with zero environmental impact.
 - **Integrated Systems (Energy Hubs):** The refrigeration plant of the future does more than just preserve products; it is a "beating heart" that provides climate control for environments and heats water, recovering every single watt that was once dissipated into the atmosphere.
 
 ---
