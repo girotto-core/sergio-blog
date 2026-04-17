@@ -33,7 +33,7 @@ To put it in perspective: just one kilogram of R404A released into the atmospher
 
 During those years, we witnessed a chaotic proliferation of new refrigerants and blends. Complexity increased drastically:
 
-- **For manufacturers:** Every new fluid required lengthy compatibility and reliability tests.
+- **For manufacturers:** Every new fluid required long and time consuming compatibility and reliability tests.
 - **For technicians:** Managing several different cylinders and oils became an unsustainable burden.
 
 Above all, there was no clear direction—a total lack of ideas on how to solve this situation at its root. Various methods were proposed, some of them difficult to believe today, e.g. acetone with CO2 as a brine or Flo-ice.
