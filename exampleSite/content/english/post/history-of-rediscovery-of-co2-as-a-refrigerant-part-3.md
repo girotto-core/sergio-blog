@@ -11,16 +11,18 @@ Moving from theory to commercial practice required a phased strategy. At the end
 
 ### 1. The Transition Phase: Subcritical
 
-In 1997, to accelerate the project's maturity, we introduced the first **subcritical** systems. The idea was to use CO2 only for low temperature (LT, evaporating from -35 to -40°C), while maintaining a conventional primary fluid for medium temperature.
+In 1997, to accelerate the project's maturity, we introduced the first **subcritical** systems wth CO2 as a refrigerant. The idea was to use CO2 only for low temperature (LT, evaporating from -35 to -40°C), while maintaintaining a conventional primary fluid for medium temperature.
 
 - **The Conegliano Success:** At the "Bingo" supermarket in Conegliano (TV), we installed the world's first subcritical low-temperature system in cascade with an indirect system (R134a chiller). This milestone drew interest from technicians across Europe. Other installations followed, including one in the UK that utilized Propane for the medium-temperature chiller.
-- **The Technical Lesson:** Despite the enthusiasm, limits emerged: the dual circuit, circulation pumps, and additional heat exchange reduced efficiency and increased complexity and cost. It was a compromise that only solved maybe 20% of the environmental problem—in a supermarket context, only the low-temperature portion.
+- **The Technical Lesson:** Despite the enthusiasm, limits emerged: the dual circuit, circulation pumps, and additional heat exchange reduced efficiency and increased complexity and cost. It was a compromise that only solved maybe 30% of the environmental problem—in a supermarket context, only the low-temperature portion
 
 ---
 
 ### 2. Year 2000: The World's First Transcritical System
 
-The true "evolutionary leap" happened in **Lestans (PN)**. Here, we built the first transcritical system of a new type in the world: a single-stage, CO2-only system.
+The first subricital systems in retail sector were the spark for the introduction of CO2 cascade also in industrial refrigeration.
+
+The true "evolutionary leap" happened near Pordenone, always in Italy, in the year 2000. Here, we built the first transcritical system of a new type in the world: a single-stage, CO2-only system.
 
 We literally had to invent what was missing:
 
@@ -32,7 +34,7 @@ We literally had to invent what was missing:
 
 ### 3. The "Baptism of Fire" (and Ice)
 
-The first "full-scale" plant arrived in 2002 in the province of Treviso, featuring three machines with parallel compressors: single-stage for MT (medium temperature) and two-stage compressors for LT (low temperature).
+The first "full-scale" plant arrived in 2002 in the province of Treviso, featuring three machines with compressors in parallel: single-stage for MT (medium temperature) and two-stage compressors for LT (low temperature).
 
 However, radical innovation always collides with the unexpected. Two extreme events put the system to the test:
 
