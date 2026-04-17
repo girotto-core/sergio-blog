@@ -15,9 +15,9 @@ A major turning point occurred around 1930 with the synthesis of the first artif
 
 ### 2. The Montreal Protocol: An Industrial Earthquake
 
-The modern cooling industry grew up relying on synthetic refrigerants: CFCs (chlorofluorocarbons) and HCFCs (hydrochlorofluorocarbons). Both contained chlorine, the primary enemy of atmospheric ozone.
+The modern cooling industry grew up relying on synthetic refrigerants: CFCs (chlorofluorocarbons) and HCFCs (hydrochlorofluorocarbons). Both contained chlorine, one harmful substance for atmospheric ozone.
 
-In the decade between 1990 and 2000, I lived through this change on the front lines as a technical manager of a large commercial refrigeration company. It was a time when established certainties were overturned by scientific evidence. Studies by Rowland, Molina, and Crutzen (Nobel Prize winners in 1995) proved that chlorine and bromine were responsible for the "hole" in the ozone layer. The Montreal Protocol (1987) mandated the phase-out of the fluids containing these elements; now, in 2026 and after several years from implementation with ozone hole recovering, we can say that Montreal Protocol was an environmental success, but at that time for the industry it was a kind of earthquake.
+In the decade between 1990 and 2000, I lived through this change on the front lines as a technical manager of a large commercial refrigeration company. It was a time when established certainties were overturned by scientific evidence. Studies by Rowland, Molina, and Crutzen (Nobel Prize winners in 1995) proved that chlorine, and bromine, were responsible for the "hole" in the ozone layer. The Montreal Protocol (1987) mandated the phase-out of the fluids containing these elements; now, in 2026 and after several years from ban of harmful substances and with ozone hole recovering, we can say that Montreal Protocol was an environmental success, but at that time for the industry it was a kind of earthquake.
 
 ### 3. The Ozone Crisis and the Role of R22
 
