@@ -29,11 +29,11 @@ The real breakthrough happened at Enex, from an intuition born during a test gon
 
 ### 3. Switzerland: A Permanent Laboratory
 
-Switzerland was a source of excellence. Enex, together with partners like **Frigo Consulting** and **Kaeltering**,  perfected the integration of the ejector and the economizer circuit between 2011 and 2012. After the first experiments in Finland by Enex, some very interesting field tests were done. First of all one installation in Bulle, near Gruyere, then one installation near Luzern (Schwitz). 
+Switzerland was a source of excellence. Enex, together with partners like **Frigo Consulting** and **Kaeltering**,  perfected the integration of the ejector and the economizer circuit between 2011 and 2012. After the first experiments in Finland by Enex, some very interesting field tests were done. First of all one installation in Bulle, near Gruyere, then one installation near Luzern (Schwitz) followed. 
 
 This configuration solved a historical limitation: it allowed the ejector to operate continuously and stably in all environmental conditions, without the need for complex control devices.
 
-In switzerland the cooperation between Frigoconsulting, Kaeltering and Enex allowed to make preliminary tests with other devices, like for example with an expander.
+In Switzerland the cooperation between Frigoconsulting, Kaeltering and Enex allowed to make preliminary tests with other devices, like for example with an expander.
 
 ---
 
