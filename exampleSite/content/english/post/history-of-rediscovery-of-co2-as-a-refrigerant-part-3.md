@@ -47,7 +47,7 @@ The plant survived, but we realized that the technology demanded a new, much hig
 
 ### 4. 2004: Enex is Born
 
-After twenty years as an employee—rising from being a laboratory technician to technical director—I felt that the structure of a large company was not suited to the risks and speed required for this revolution.
+After twenty years as an employee—rising from being a laboratory technician to technical director—I felt that the structure of a large company was not suited to the risks and speed required for massively introducing CO2 in the market.
 
 On **March 1, 2004**, I founded **Enex**. The name is a synthesis of **En**ergy and **Ex**ergy (the part of energy that is actually usable). The concept of Exergy, a pillar of the second law of thermodynamics, embodied our mission: the highest possible efficiency.
 
