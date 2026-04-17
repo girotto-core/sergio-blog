@@ -11,7 +11,7 @@ Following the completion of the first "full-scale" plant, we implemented numerou
 
 Meanwhile, another leader in commercial refrigeration, Linde Carrier, completed its first plant in Wettingen, Switzerland. Although it was a relatively simple system—single-stage for MT and cascade for LT—it was of significant size. There were, in the Wettingen plant, some interesting steps forward: first of all the first Bitzer transcritical compressor, then the first electric valve - from chemical industry - for controlling high pressure in gas cooler and the first gas cooler CO2-air from Luve. 
 
-The company Bock had already  available a small trascritical "open type" compressor at prototype level.
+The company Bock had already  available a small trascritical "open type" compressor at prototype level, designed for testing air conditioning for bus for a german company.
 
 It was clear at this point that, even if everything was still at "field test" stage, there were more players exploring the new technology, however still at an early stage.
 
