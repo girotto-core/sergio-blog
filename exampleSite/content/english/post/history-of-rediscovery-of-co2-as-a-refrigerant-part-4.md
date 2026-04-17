@@ -35,7 +35,7 @@ In 2007 two new companies entered the market of CO2 "transcritical systems". One
 
 Between 2007 and 2008, one of the most pressing challenges for supermarkets was reached: managing both "fresh" (medium temperature) and "frozen" (low temperature) products with a single central unit.
 
-This led to the **Booster system**. Enex and Advansor developed circa at the same time the new circuit, a design with integrated MT and LT that was considerably more efficient than a cascade system. By eliminating the intermediate heat exchanger, the associated temperature difference and the resulting thermodynamic loss between LT and MT were removed.
+This led to the **Booster system**. Enex and Advansor developed circa at the same time the new circuit, a design with integrated MT and LT that was considerably more efficient than a cascade system. By eliminating the intermediate heat exchanger, the associated temperature difference and the resulting thermodynamic loss between LT and MT was removed.
 
 Enex also refined the use of machines with **two-stage compressors**, produced at the time exclusively by Dorin—the only ones in the market who believed in this technology.
 
@@ -43,10 +43,10 @@ Enex also refined the use of machines with **two-stage compressors**, produced a
 
 ### 3. The Market Challenge: Skepticism vs. Innovation
 
-Despite the clear technical data, the initial market response was still characterized by strong skepticism. Many operators feared the high pressures and the complexity of the new designs.
+Despite the clear technical data, the initial market response was still characterized by strong skepticism. Many operators feared the high pressures and the complexity of the new designs. the market was substantially limited to Switzerland, Scandinavia and UK.
 
 There were, in that period, several attempts to design large heat pumps for sanitary hot water, similar to what was happening in Japan after the success of small "Ecocute". All that was important also for refrigeration, as Swep developed - for the promising market of heat pumps - a high pressure water cooled gas cooler, model B16DW, which could be used as heat recovery heat exchanger in refrigeration units for retail. Moreover, Dorin compressors were improved in order to bring at highest level their reliability.
 
-For Enex a commercial turning point came from Switzerland in 2007. Thanks to the foresight of partners like Frigo Consulting and Kaeltering, several cutting-edge systems were installed. The main market for Advansor was initially UK, and in particular a large retailer. There was a systematic lack of components, as valves, for example, but at this point it was possible to assemble refrigeration units which were enough reliable.
+For Enex a commercial turning point came from Switzerland in 2007. Thanks to the foresight of partners like Frigo Consulting and Kaeltering, several cutting-edge systems were installed. The main markets for Advansor were initially Denmark and UK, and in particular one large retailer. In Scandinavia Green&Cool made quite well. There was a systematic lack of components, as valves, for example, but at this point it was possible to assemble refrigeration units which were enough reliable.
 
 The request from the market was however very limited.
