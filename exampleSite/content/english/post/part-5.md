@@ -9,9 +9,9 @@ summary = 'Period 2008 - 2013'
 
 ### 1. The consolidation of business
 
-Between 2009 and 2013, transcritical CO2 technology was still considered a niche, nevertheless it started to attract large comanies. The first consequence was the acquisition, or the partnership, of large companies with the 3 companies working on CO2 and founded between 2004 and 2007. Dover group took over Advansor, Carrier took over Gree&Cool and Huurre, a Finnish group, acquired a minority stake in Enex. it was the first signal of the interest of the market, even before a real significant increase in sales. 
+Between 2009 and 2013, transcritical CO2 technology was still considered a niche, nevertheless it started to attract large companies. The first consequence was the acquisition, or the partnership, of large companies with the 3 companies working on CO2 and founded between 2004 and 2007. Dover group took over Advansor, Carrier took over Green&Cool and Huurre, a Finnish group, acquired a minority stake in Enex. It was the first signal of the interest of the market, even before a real significant increase in sales. 
 
-**The market**s were now UK, Scandinavia and Denmark, and of course Switzerland
+
 
 ---
 
