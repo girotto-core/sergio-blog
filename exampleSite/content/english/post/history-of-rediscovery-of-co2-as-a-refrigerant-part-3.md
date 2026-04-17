@@ -22,12 +22,12 @@ In 1997, to accelerate the project's maturity, we introduced the first **subcrit
 
 The first subritical systems in retail sector were the spark for the introduction of CO2 cascade also in industrial refrigeration, using ammonia for the brine chiller, for example.
 
-The true "evolutionary leap" happened near Pordenone, always in Italy, in the year 2000. Here, we built the first transcritical system of a new type in the world: a single-stage, CO2-only system.
+The true "evolutionary leap" happened near Pordenone, always in Italy, in the year 2000. Here, we built the first transcritical system of a new type in the world: a single-stage, CO2-only, system.
 
 We literally had to invent what was missing:
 
-- **Control:** We created a self-regulating mechanical system for high pressure, as nothing existed on the market.
-- **Mechanics:** We designed coaxial air/water heat exchangers certified for **120 bar**, building them ourselves.
+- **Control:** We created a self-regulating mechanical system for high pressure control, as nothing existed on the market.
+- **Mechanics:** We designed coaxial air/water heat exchangers certified for **120 bar**, building them by ourselves.
 - **Chemistry:** We field-tested which lubricating oils were actually suitable and compatible. We were writing the rules of the game while we were playing it.
 
 ---
