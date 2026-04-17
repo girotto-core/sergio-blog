@@ -20,7 +20,7 @@ In 1997, to accelerate the project's maturity, we introduced the first **subcrit
 
 ### 2. Year 2000: The World's First Transcritical System
 
-The first subricital systems in retail sector were the spark for the introduction of CO2 cascade also in industrial refrigeration.
+The first subritical systems in retail sector were the spark for the introduction of CO2 cascade also in industrial refrigeration, using ammonia for the brine chiller, for example.
 
 The true "evolutionary leap" happened near Pordenone, always in Italy, in the year 2000. Here, we built the first transcritical system of a new type in the world: a single-stage, CO2-only system.
 
