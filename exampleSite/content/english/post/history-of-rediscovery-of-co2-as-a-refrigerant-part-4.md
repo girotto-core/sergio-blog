@@ -37,13 +37,13 @@ Between 2007 and 2008, one of the most pressing challenges for supermarkets was 
 
 This led to the **Booster system**. Enex and Advansor developed circa at the same time the new circuit, a design with integrated MT and LT that was considerably more efficient than a cascade system. By eliminating the intermediate heat exchanger, the associated temperature difference and the resulting thermodynamic loss between LT and MT was removed.
 
-Enex also refined the use of machines with **two-stage compressors**, produced at that time exclusively by Dorin—the only ones in the market who believed in this technology.
+Enex also refined the use of machines with **two-stage compressors**, produced at that time exclusively by Dorin—the only ones in the market who believed in this technology since the beginning.
 
 ---
 
 ### 3. The Market Challenge: Skepticism vs. Innovation
 
-Despite the clear technical data, the initial market response was still characterized by strong skepticism. Many operators feared the high pressures and the complexity of the new designs. the market was substantially limited to Switzerland, Scandinavia and UK.
+Despite the clear technical data, the initial market response was still characterized by strong skepticism. Many operators feared the high pressures and the apparent complexity of the new designs. The market was substantially limited to Switzerland, Scandinavia and UK.
 
 There were, in that period, several attempts to design large heat pumps for sanitary hot water, similar to what was happening in Japan after the success of small "Ecocute". All that was important also for refrigeration, as Swep developed - for the promising market of heat pumps - a high pressure water cooled gas cooler, model B16DW, which could be used as heat recovery heat exchanger in refrigeration units for retail. Moreover, Dorin compressors were improved in order to bring at highest level their reliability.
 
