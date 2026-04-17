@@ -33,11 +33,11 @@ The control of new design proved to be quite difficult, due to huge variation of
 
 In 2007 two new companies entered the market of CO2 "transcritical systems". One of them was based in Denmark - Advansor - and the other in Sweden - Green&Cool; I knew both founders very well as we had contact in the past years for the plants we built, with Costan, in Scandinavia.
 
-Between 2007 and 2008, one of the most pressing challenges for supermarkets was reached: managing both "fresh" (medium temperature) and "frozen" (low temperature) products with a single central unit.
+Between 2007 and 2008, one of the most pressing challenges for supermarkets was reached: managing both "fresh" (medium temperature) and "frozen" (low temperature) products with a single centralized unit.
 
 This led to the **Booster system**. Enex and Advansor developed circa at the same time the new circuit, a design with integrated MT and LT that was considerably more efficient than a cascade system. By eliminating the intermediate heat exchanger, the associated temperature difference and the resulting thermodynamic loss between LT and MT was removed.
 
-Enex also refined the use of machines with **two-stage compressors**, produced at the time exclusively by Dorin—the only ones in the market who believed in this technology.
+Enex also refined the use of machines with **two-stage compressors**, produced at that time exclusively by Dorin—the only ones in the market who believed in this technology.
 
 ---
 
