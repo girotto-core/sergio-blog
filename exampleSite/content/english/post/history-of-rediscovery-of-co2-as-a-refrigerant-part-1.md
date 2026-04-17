@@ -21,7 +21,7 @@ In the decade between 1990 and 2000, I lived through this change on the front li
 
 ### 3. The Ozone Crisis and the Role of R22
 
-The sector's first response was pragmatic: falling back on R22 (an HCFC), which had a significantly lower Ozone Depletion Potential (ODP) than CFCs (0.05 versus 1.0). However, R22 was not suitable for all applications. Consequently, the chemical industry began proposing HFCs (hydrofluorocarbons), fluids with zero ODP because they lack chlorine.
+The sector's first response was pragmatic: falling back on R22 (an HCFC), which had a significantly lower Ozone Depletion Potential (ODP) than CFCs (0.05 versus 1.0). However, R22 was not suitable for all applications. Consequently, the chemical industry began proposing HFCs (hydrofluorocarbons), fluids with zero ODP because they did not contain chlorine.
 
 The market was searching for the "ultimate refrigerant," but a new obstacle soon appeared: HFCs, much like CFCs and HCFCs, contributed heavily to the greenhouse effect.
 
