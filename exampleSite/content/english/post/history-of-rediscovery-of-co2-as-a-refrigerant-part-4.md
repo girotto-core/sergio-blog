@@ -23,15 +23,15 @@ in 2006 Danfoss released some field test valves for high pressure control, that 
 
 This device was designed to significantly improve machine efficiency when outdoor temperatures rise. In such conditions, flash vapor production increases; by using a two-stage expansion scheme and having an auxiliary compressor for suction of the flash vapor, we managed to drastically increase cycle performance.
 
-This study, presented at an international conference in Vicenza, marked Enex's official entry into the world of industrial applied scientific research. The first large-scale real-world application followed in 2008, in Freiburg.
+The first large-scale real-world application followed in 2008, in Freiburg.
 
-The new design proved to be quite difficult to calculate, due to huge variation of flash vapor mass flow.
+The control of new design proved to be quite difficult, due to huge variation of flash vapor mass flow.
 
 ---
 
 ### 2. Booster Systems and Double Stage: Efficiency in Retail
 
-In 2007 two new companies entered the market. One of them was based in Denmark - Advansor - and the other in Sweden - Green&Cool; I knew both founders very well as we had contact in the past years for the plants we built, with Costan, in Scandinavia.
+In 2007 two new companies entered the market of CO2 "transcritical systems". One of them was based in Denmark - Advansor - and the other in Sweden - Green&Cool; I knew both founders very well as we had contact in the past years for the plants we built, with Costan, in Scandinavia.
 
 Between 2007 and 2008, one of the most pressing challenges for supermarkets was reached: managing both "fresh" (medium temperature) and "frozen" (low temperature) products with a single central unit.
 
