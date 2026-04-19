@@ -33,7 +33,7 @@ Initially Enex produced directly the ejectors based on a design made by Sintef. 
 
 The configurations developed solved a limitation: it allowed the ejector to operate continuously and stably in all environmental conditions, without the need for complex control devices.
 
-In Switzerland the cooperation between Frigoconsulting, Kaeltering and Enex allowed to make preliminary tests with other devices, like for example with an expander. However the ejector, theoretically less efficient, was superior due to intrinsic simplicity.
+In Switzerland the cooperation between Frigoconsulting, Kaeltering and Enex allowed to make preliminary tests with other devices, like for example with an expander. However the ejector, theoretically less efficient, was superior due to intrinsic simplicity and the intrinsic reliability.
 
 ---
 
