@@ -29,7 +29,7 @@ Thirty years after the first steps, the idea of reintroducing CO2 has proven to 
 
 The journey of reintroducing CO2 leaves us with three fundamental reflections:
 
-1. **The Uncertainty of Synthetics:** New shadows are appearing on the horizon, such as global **PFAS** contamination. History teaches us that the use of synthetic chemical compounds (as was the case with Teflon or CFCs) must be evaluated with extreme caution, given the possible long-term impacts.
+1. **The Uncertainty of Synthetics:** New shadows are appearing on the horizon, such as global **PFAS** contamination. History teaches us that the use of synthetic chemical compounds (which can be for example Teflon or CFCs or thousand of synthetic substances) must be evaluated with extreme caution, given the possible long-term impacts.
 2. **The Inertia of Change:** Introducing a radically new technology requires a long time due to the inertia of the sector. Likely, more structured financial support and more active communication could have accelerated this transition.
 3. **The Value of the Natural Choice:** Investing in natural solutions is the only choice that proves truly rewarding in the medium and long term.
 
