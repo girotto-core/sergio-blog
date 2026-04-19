@@ -23,7 +23,7 @@ Today, carbon dioxide competes on equal footing in large industrial plants, than
 
 ## Conclusions: A Forward-Looking Vision
 
-Thirty years after the first steps, the idea of reintroducing CO2 has proven to be a winning one. While the ozone hole is recovering and European regulations (**F-Gas**) signal the end of synthetic gases, by 2026, CO2 has become the standard solution in retail and a top choice in industry. More than 100.000 systems are now in operation, while more and more are being installed also in industrial sector.
+Thirty years after the first steps, the idea of reintroducing CO2 has proven to be a winning one. While the ozone hole is recovering and European regulations (**F-Gas**) signal the end of synthetic gases, by 2026, CO2 has become the standard solution in retail and a top choice in industry. Several tens of companies are now manufacturing CO2 systems, and more than 100.000 plants are now in operation, while more and more are being installed also in industrial sector.
 
 ### Lessons for the Future
 
@@ -34,3 +34,5 @@ The journey of reintroducing CO2 leaves us with three fundamental reflections:
 3. **The Value of the Natural Choice:** Investing in natural solutions is the only choice that proves truly rewarding in the medium and long term.
 
 Looking back, the choice made thirty years ago was not just a technical experiment: it was the correct direction for a truly sustainable cooling industry.
+
+Are there possibilities to improve further? It will be an argument for a next post.
