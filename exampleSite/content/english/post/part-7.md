@@ -23,7 +23,7 @@ Today, carbon dioxide competes on equal footing in large industrial plants, than
 
 ## Conclusions: A Forward-Looking Vision
 
-Thirty years after the first steps, the idea of reintroducing CO2 has proven to be a winning one. While the ozone hole is recovering and European regulations (**F-Gas**) signal the end of synthetic gases, by 2026, CO2 has become the standard solution in retail and a top choice in industry.
+Thirty years after the first steps, the idea of reintroducing CO2 has proven to be a winning one. While the ozone hole is recovering and European regulations (**F-Gas**) signal the end of synthetic gases, by 2026, CO2 has become the standard solution in retail and a top choice in industry. More than 100.000 systems are now in operation, while more and more are being installed also in industrial sector.
 
 ### Lessons for the Future
 
