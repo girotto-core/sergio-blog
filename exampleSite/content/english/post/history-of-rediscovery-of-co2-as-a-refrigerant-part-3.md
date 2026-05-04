@@ -1,6 +1,6 @@
 +++
 title = 'History of a new technology - part 3'
-date = '2026-05-01'
+date = '2026-05-02'
 author = 'S.Girotto'
 description = 'History of rediscovery of CO2 as a refrigerant'
 summary = 'Period 1996-2004'
