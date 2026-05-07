@@ -31,7 +31,7 @@ Recently, ejectors for semi-flooded feeding of evaporators and flash gas pre-com
 
 I participated directly in the years 2011-2014 in the conception and development of concepts using ejectors, but also, previously, in the development of the 2-stage compressor, a), and in the recompression of the flash, d).
 
-Some solutions were proposed for expander e), but at the date (January 2026) no reliable solutions are available yet. we'll see in the future.
+Some solutions were proposed for expander e), but at the date (January 2026) no reliable solutions are available yet. We'll see in the future.
 
 Separate considerations must be made for the Voorhees method, as I will say later. Apart from a) and d) the other solutions, specifically c), e) have not been proven technically and/or economically are not viable.
 
