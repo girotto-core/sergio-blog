@@ -33,7 +33,7 @@ I participated directly in the years 2011-2014 in the conception and development
 
 Some solutions were proposed for expander e), but at the date (January 2026) no reliable solutions are available yet. We'll see in the future.
 
-Separate considerations must be made for the Voorhees method, as I will say later. Apart from a) and d) the other solutions, specifically c), e) have not been proven technically and/or economically are not viable.
+Separate considerations must be made for the Voorhees method, as I will say later. Apart from a) and d) the other solutions, specifically c), e) have not been proven technically yet.
 
 The subcooling, f), was the first thing that came to mind but the problem is the cost.
 
