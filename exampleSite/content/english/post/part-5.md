@@ -39,7 +39,7 @@ In Switzerland the cooperation between Frigoconsulting, Kaeltering and Enex allo
 
 ### 4. 2013: Expansion of CO2 to eastern countries
 
-Thanks to the prestige earned through Swiss and Scandinavian installations, the **Eastern European market** unexpectedly opened up. Some large retailers decided to use CO2 in Romania and Poland for some hypermarkets. Enex and Green&Cool (Carrier) were the competing suppliers for these installations.
+Thanks to the prestige earned through Swiss and Scandinavian installations, the **Eastern European market** unexpectedly opened up. Some large retailers decided to use CO2 in Romania and Poland for some hypermarkets. Enex and Green&Cool (Carrier) were initially the competing suppliers for these installations.
 
 ---
 
