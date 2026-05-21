@@ -23,7 +23,7 @@ The success of these sites finally opened doors to markets where skepticism had 
 
 Different manufacturing techniques were studied by the manufacturers. For example some used welded carbon steel for the piping, while others adopted stainless steel. It was an important element, much different from previous refrigeration installations with HFC, where brazed copper was used.
 
-Advansor (Dover) mainly was expanding its market, thanks to a strong effort in standardization and industrialization, while Enex was more specialized in development and R&D, thanks to the connections with Sintef and CNR of Padova. A good help for spreding CO2 technology came from Shecco, with its informative activity.
+Advansor (Dover) mainly was expanding its market, thanks to a strong effort in standardization and industrialization, while Enex was more specialized in development and R&D, thanks to the connections with Sintef and CNR of Padova. A good help for spreading CO2 technology came from Shecco, with its informative activity.
 
 More suppliers introduced in their range components designed for CO2- compressors, valves and heat exchangers - so competition at all level started. A "new" alloy (K65) was introduced for the piping by Wieland, which for small plants allowed to use brazing process, instead of the more demanding welding.
 
