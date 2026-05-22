@@ -35,4 +35,4 @@ The journey of reintroducing CO2 leaves us with three fundamental reflections:
 
 Looking back, the choice made thirty years ago was not just a technical experiment: it was the correct direction for a truly sustainable cooling industry.
 
-Intentionally the "history" after 2019 has not been written. As soon as possible all the parts - the 7 parts - will be grouped together. There will be also a comment about the innovations introduced in the last 5 years. there will my answer to the question " Are there possibilities to improve further? ".
+Intentionally the "history" after 2019 has not been written. As soon as possible all the parts - the 7 parts - will be grouped together. There will be also a comment about the innovations introduced in the last 5 years. There will my answer to the question " Are there possibilities to improve further? ".
