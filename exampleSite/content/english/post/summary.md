@@ -86,9 +86,7 @@ By the late 1990s, it was clear that adding layers of complexity or seeking new 
 
 In the 1990s, while the chemical industry was hunting for a new "magic molecule" thermodynamics suggested the opposite direction: instead of searching for a fluid suited to the standard refrigeration cycle, it was necessary to modify the system design to allow the use efficiently a natural, non-toxic, and non-flammable fluid, namely CO2. Choosing carbon dioxide (R744) meant clashing with a physical limit that had been considered insurmountable for decades: its low critical temperature (31.1°C).
 
-
-
-1**. The End of Synthetic Alternatives**
+1. **The End of Synthetic Alternatives**
 
 Around 1995, research by NIST (conducted by McLinden and Domanski) reached a definitive conclusion: the atomic combinations for creating new refrigerants that were simultaneously safe, efficient, and stable had been exhausted. There were no more new synthetic molecules capable of replacing old gases without reintroducing environmental (GWP) or safety issues. The "chemical solution" was stalling; in its place, the “thermodynamic solution” began to take shape.
 
@@ -108,11 +106,7 @@ At the time, using CO2 in refrigeration was a beautiful theory without real mach
 - Valves were "borrowed" from the hydraulic sector
 - Lubrication problems were solved directly in the field through continuous adjustments.
 
-
-
 The results however were clear: the compressor performed excellently, and the machine "produced cold". Above all, we proved that managing high pressures was not an impossible task.
-
-
 
 **4.    The Technical Lesson**
 
@@ -122,11 +116,9 @@ At this point we need to remember that a great man and a great scientist, prof. 
 
 1996-2004
 
-**From Prototype to Market – The Birth of Enex**
+**From Prototype to Market** 
 
 Moving from theory to commercial practice required a phased strategy. At the end of the 1990s, the market wasn't ready for a direct leap into pure transcritical systems; we had to "tame" the technology through intermediate steps, learning lessons that no refrigeration manual could have taught us.
-
-
 
 **1.    The Transition Phase: Subcritical**
 
@@ -135,8 +127,6 @@ In 1997, to accelerate the project's maturity, we introduced the first “subcri
  - The Conegliano Success: At the "Bingo" supermarket in Conegliano (TV), we installed the world's first subcritical low-temperature system in cascade with an indirect system (R134a chiller). This milestone drew interest from technicians across Europe. Other installations followed, including one in the UK that utilized Propane for the medium-temperature chiller.
 
 - The Technical Lesson: Despite the enthusiasm, limits emerged: the dual circuit, circulation pumps, and additional heat exchange reduced efficiency and increased complexity and cost. It was a compromise that only solved maybe 30% of the environmental problem—in a supermarket context, only the low-temperature portion
-
-
 
 **2.    Year 2000: The World's First Transcritical System**
 
@@ -150,29 +140,17 @@ The first subritical systems in retail sector were the spark for the introductio
   
 - Chemistry: We field-tested which lubricating oils were actually suitable and compatible.
 
-
-
 We were writing the rules of the game while we were playing it.
-
-
-
-&nbsp;
 
 **3.    The "Baptism of Fire" (and Ice)**
 
 The first "full-scale" plant, multicompressor type, arrived in 2002 in the province of Treviso, featuring three machines with compressors in parallel: single-stage for MT (medium temperature) and two-stage compressors for LT (low temperature). However, radical innovation always collides with the unexpected. Two extreme events put the system to the test.
 
-
-
 The Oil Emergency (Winter 2002-2003): With temperatures dropping much below 0°C at night, we discovered that—since the machines were outdoors—the CO2 in idle compressors would condense, causing the oil and CO2 to separate. Upon restart, because the oil selected was lighter than liquid CO2, the oil pump sucked up the latter instead of the lubricant, destroying compressors in minutes.
-
-
 
 The Record Summer (2003): One of the hottest summers since then, up to almost 40°C, for several month. The system held the pressure, but human factor "fragility" emerged. Maintenance errors on one occasion led to the safety valves blowing at 160 bar. The noise was so loud that neighbors called the Fire Department.The plant survived, but we realized that the technology demanded a new, much higher level of professionalism in maintenance and service. The results from that plant were presented at the IIR conference in Washington in 2003, sparking massive interest from technicians, particularly from Scandinavia.
 
-
-
-**4.    2004: Founding of Enex**
+**4.    2004: Foundation of Enex**
 
 After twenty years as an employee—growing from being a laboratory technician to technical director—I felt that the structure of a large and prestigious company with a well-known brand was not suited to take the risks required for massively introducing CO2 in the market. On March 1st, 2004, I founded Enex. The name was a synthesis of EN-ergy and EX-ergy (the part of energy that is actually usable). The concept of Exergy, a pillar of the second law of thermodynamics, embodied our mission: the highest possible efficiency. Enex became fully operational by the end of 2004. Enex was the first company focused only on CO2 refrigeration. It was followed some years later by 2 other companies.
 
