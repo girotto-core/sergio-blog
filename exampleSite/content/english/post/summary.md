@@ -170,8 +170,6 @@ This device was designed to significantly improve machine efficiency when outdoo
 
 **Booster Systems and Double Stage: Efficiency in Retail**
 
-**** 
-
 In 2006-2007 two new companies entered the market of CO2 "transcritical systems". One of them was based in Denmark - Advansor - and the other in Sweden - Green&Cool; I knew both founders very well as we had contact in the past years for the plants we built, with Costan, in Scandinavia. Between 2007 and 2008, one of the most pressing challenges for supermarkets was reached: managing both "fresh" (medium temperature) and "frozen" (low temperature) products with a single centralized unit. This led to the “Booster system”. Enex and Advansor developed circa at the same time the new circuit, a design with integrated MT and LT that was considerably more efficient than a cascade system. By eliminating the intermediate heat exchanger, the associated temperature difference and the resulting thermodynamic loss between LT and MT was removed. Enex also refined the use of machines with “two-stage compressors”, produced at that time exclusively by Dorin—the only ones in the market who believed in this technology since the beginning.-
 
 **The Market Challenge: Skepticism vs. Innovation**
@@ -200,9 +198,7 @@ The real breakthrough happened at Enex, from an intuition born during a test gon
 
 Switzerland was a source of excellence. Enex, together with partners like Frigoconsulting and Kaeltering,  perfected the integration of the ejector and the economizer circuit between 2011 and 2012. After the first experiments in Finland made by Enex with Huurre , some very interesting field tests were done. First of all one installation in Bulle, near Gruyere, then one installation near Luzern (Schwitz) followed by several others. Initially Enex produced directly the ejectors based on a design made by Sintef and specialists in fluid dynamic from Poland. More alternatives became soon available. Starting 2015 Danfoss developed the "multiejector", an industrial breakthrough. Carrier and Carel developed the step-motor controlling mechanism for their ejector. The configurations developed  solved a limitation: they allowed the ejector to operate continuously and stably in all environmental conditions, without the need for complex control devices. In Switzerland the cooperation between Frigoconsulting, Kaeltering and Enex allowed to make preliminary tests with other devices, like for example with an expander. However the ejector, theoretically less efficient, was superior due to intrinsic simplicity and reliability.
 
-
-
-**2013: Expansion of CO2 to eastern countries.**
+**2013: Expansion of CO2 to Eastern countries.**
 
 Thanks to the prestige earned through Swiss and Scandinavian installations, the “Eastern Europe” market unexpectedly opened up. In reality the business came from French and German large retailers who decided to use CO2 in Romania and Poland for some hypermarkets. Advansor, Enex and Green&Cool (Carrier) were initially the competing suppliers for these installations.
 
