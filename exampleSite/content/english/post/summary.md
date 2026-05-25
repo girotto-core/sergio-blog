@@ -50,7 +50,6 @@ The sector's first response was pragmatic: falling back on R22 (an HCFC), which 
 While efforts were being made to save the ozone, the issue of the greenhouse effect and global warming emerged with force. To measure the impact of these fluids, GWP index (Global Warming Potential) was defined. New refrigerants like R404A or R134a, despite being "Ozone Friendly", turned out to be extremely powerful greenhouse gases. To put it in perspective: just one kilogram of R404A released into the atmosphere has an impact equivalent to nearly 4 tons of CO2.During those years, we witnessed a chaotic proliferation of new refrigerants and blends. Complexity increased drastically.
 
 - For manufacturers: Every new fluid required long time consuming and expensive compatibility and reliability tests.
-
 - For service technicians: Managing several different cylinders of refrigerants and oils became an unsustainable burden.
 
 Above all, there was no clear direction—a total lack of ideas on how to solve this situation at its root.
@@ -64,7 +63,7 @@ For medium temperature systems technically it was quite simple. The problem was 
 Some of the secondary fluids proposed are difficult to believe today:
 
 - for low temperature new brines were proposed, for example some based on potassium acetate or potassium formiate
-- for MT the so-called Flo-ice was proposed, a mixture of ice and brine-ice
+- for MT the so-called Flo-ice was proposed, a mixture of ice and brine
 - Somebody mentioned for the first time CO2 as a phase changing brine, but the pressure appeared too high for the standard of that period. So one idea was to use it mixed with Acetone (a flammable fluid!).
 
 No one of the above solutions or ideas was successful.
