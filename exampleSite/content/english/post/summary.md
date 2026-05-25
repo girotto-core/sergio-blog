@@ -1,5 +1,5 @@
 +++
-title = 'summary'
+title = 'History of one innovation'
 date = '2026-06-25'
 author = 'S.Girotto'
 description = 'Rediscovery of CO2 refrigeration'
@@ -37,8 +37,6 @@ Finally, a special “thank you” to eng. Mario Dorin 
 
 Mechanical refrigeration took its first steps around 1850. Until 1930, systems exclusively used natural fluids, including ammonia, sulfur dioxide, and carbon dioxide. A major turning point occurred around 1930 with the synthesis of the first artificial refrigerants, such as R12 and R11. These "miracle" molecules quickly replaced most of the natural fluids in use, with the exception of ammonia, which remained the standard in large industrial plants. It was only fifty years later that the truth emerged: those synthetic substances that made refrigeration systems so simple and efficient were damaging the environment.
 
-
-
 **2.    The Montreal Protocol: An Industrial Earthquake**
 
 The modern cooling industry grew up relying on synthetic refrigerants: CFCs (chlorofluorocarbons) and HCFCs (hydrochlorofluorocarbons). Both contained chlorine, one substance harmful for atmospheric ozone. In the decade between 1990 and 2000, I lived through this change on the front lines as a technical manager of a large commercial refrigeration company. It was a time when established certainties were overturned by scientific evidence. Studies by Crutzen, Rowland and Molina (Nobel Prize winners in 1995) proved that chlorine contained in CFCs and HCFCs was responsible for the destruction of the ozone layer, the “ozone hole". The Montreal Protocol (1987) mandated the phase-out of the fluids containing elements harmful to atmospheric ozone, among which CFCs and HCFCs; now, in 2026 and after several years from ban of harmful substances and with ozone hole recovering, we can say that Montreal Protocol was an environmental success, but at that time for the industry it was a kind of earthquake.
@@ -53,14 +51,9 @@ While efforts were being made to save the ozone, the issue of the greenhouse eff
 
 - For manufacturers: Every new fluid required long time consuming and expensive compatibility and reliability tests.
 
-  
 - For service technicians: Managing several different cylinders of refrigerants and oils became an unsustainable burden.
 
-
-
 Above all, there was no clear direction—a total lack of ideas on how to solve this situation at its root.
-
-
 
 5. **Indirect Systems**
 
@@ -83,17 +76,11 @@ Other drawbacks were:
 - Low reliability: The use of aggressive secondary fluids (such as potassium acetate) caused frequent corrosion.
 - Costs: Mechanical complexity and additional components made the systems more expensive and prone to failure.
 
-
-
 Conclusion: Toward the CO2 Revolution
 
 By the late 1990s, it was clear that adding layers of complexity or seeking new synthetic molecules was not the final solution. While Southern Europe remained anchored to old patterns, news filtered in from Northern Europe regarding the use of carbon dioxide (CO2 or R744) as a phase-changing secondary fluid for low temperature systems, so as very low temperature (e.g.-30°C or lower) could allow to limit design pressure to 25 bar. Using CO2 not merely as a secondary fluid, but directly as the primary fluid—an idea that seemed obvious by that point—would not just be an evolution, but a revolution. In 1995, however, this meant embarking on a massive industrial effort: components had to be designed from scratch because they simply did not yet exist on the market.
 
-
-
 1995-1996
-
-
 
 **The Return to basics – Why Physics Beat Chemistry**
 
@@ -105,16 +92,12 @@ In the 1990s, while the chemical industry was hunting for a new "magic molecule"
 
 Around 1995, research by NIST (conducted by McLinden and Domanski) reached a definitive conclusion: the atomic combinations for creating new refrigerants that were simultaneously safe, efficient, and stable had been exhausted. There were no more new synthetic molecules capable of replacing old gases without reintroducing environmental (GWP) or safety issues. The "chemical solution" was stalling; in its place, the “thermodynamic solution” began to take shape.
 
-
-
 2. **The Transcritical Cycle: Lorentzen’s Revolution**
 
 The work of Professor Gustav Lorentzen in Trondheim between the late 1980s and 1995 was the turning point. Lorentzen theorized that CO2 should not be used like traditional fluids. Above 31.1°C, the critical temperature, the fluid no longer condenses like a normal refrigeration fluid in use, but it enters a "transcritical" state (or "dense gas"). Although practical experiences dated back to the 1920s—primarily in the maritime sector—it was necessary to carefully evaluate the advantages of using CO2 and resolve the drawbacks:
 
 - The Advantage: High energy density and optimal heat exchange properties.  
 - The Challenge: Very high operating pressures—up to 120 bar, compared to the 15-20 bar of traditional systems.
-
-
 
 3. **1995: From Theory to Reality – The First Compressor for CO2**
 
@@ -131,21 +114,15 @@ The results however were clear: the compressor performed excellently, and the ma
 
 
 
-**3.    The Technical Lesson**
+**4.    The Technical Lesson**
 
 Even though in 1996 the only existing component was the compressor, we had proven that using CO2 was not a problem of principle, but “only” a technological problem of pressure containment and control. Once the high pressure was managed, the road toward natural cooling was finally open.
 
 At this point we need to remember that a great man and a great scientist, prof. Gustav Lorentzen, passed away in august 1995.
 
-
-
 1996-2004
 
-
-
 **From Prototype to Market – The Birth of Enex**
-
-
 
 Moving from theory to commercial practice required a phased strategy. At the end of the 1990s, the market wasn't ready for a direct leap into pure transcritical systems; we had to "tame" the technology through intermediate steps, learning lessons that no refrigeration manual could have taught us.
 
@@ -199,11 +176,7 @@ The Record Summer (2003): One of the hottest summers since then, up to almost 40
 
 After twenty years as an employee—growing from being a laboratory technician to technical director—I felt that the structure of a large and prestigious company with a well-known brand was not suited to take the risks required for massively introducing CO2 in the market. On March 1st, 2004, I founded Enex. The name was a synthesis of EN-ergy and EX-ergy (the part of energy that is actually usable). The concept of Exergy, a pillar of the second law of thermodynamics, embodied our mission: the highest possible efficiency. Enex became fully operational by the end of 2004. Enex was the first company focused only on CO2 refrigeration. It was followed some years later by 2 other companies.
 
-
-
 2004-2008
-
-
 
 **1.    Technical Evolution – Booster, Economizer, and Double Stage**
 
@@ -217,8 +190,6 @@ In 2006 Danfoss released some field test valves for high pressure control, that 
 
 This device was designed to significantly improve machine efficiency when outdoor temperatures rise. In such conditions, flash vapor production increases; by using a two-stage expansion scheme and having an auxiliary compressor for suction of the flash vapor from intermediate receiver, we managed to drastically increase cycle performance. The first large-scale real-world application for a system with economizer followed in 2008, in Freiburg. The control of new design proved to be quite difficult, due to huge variation of flash vapor mass flow.
 
-
-
 **Booster Systems and Double Stage: Efficiency in Retail**
 
 **** 
@@ -229,15 +200,9 @@ In 2006-2007 two new companies entered the market of CO2 "transcritical systems"
 
 Despite the clear technical data, the initial market response was still characterized by strong skepticism. Many operators feared the high pressures and the apparent complexity of the new designs. The market was substantially limited to Switzerland, Scandinavia and UK. There were, in that period, several attempts to design large heat pumps for sanitary hot water, similar to what was happening in Japan after the success of small "Ecocute". All that was important also for refrigeration, as the company Swep developed - for the promising market of heat pumps - a high pressure plate heat exchanger which could withstand 120 bar, the model B16DW. It could also be used as a water cooled gas cooler and as a heat recovery heat exchanger in refrigeration units for retail. Moreover, Dorin compressors were improved, thanks to an extended test campaign which lasted several months, in order to bring at highest level their reliability. For Enex a commercial turning point came from Switzerland in 2007. Thanks to the foresight of partners like Frigo Consulting and Kaeltering, several cutting-edge systems were installed. The main markets for Advansor were initially Denmark and UK, and in particular one large retailer. In Scandinavia Green&Cool made quite well. There was a systematic lack of components, as valves, for example, but at this point it was possible to assemble refrigeration units which were reliable enough. The request from the market was however very limited.
 
-
-
 2008-2013
 
-
-
 **The consolidation of the business and the ejector**
-
-**** 
 
 **1.    The consolidation of business**
 
@@ -253,8 +218,6 @@ The real breakthrough happened at Enex, from an intuition born during a test gon
 - The Intuition: "What if we use it to recirculate refrigerant in the evaporators?" Thus, the concept of the “overfed (or semi-flooded) evaporator” was born.
 - The Result: The first real plant, installed by Enex in Lahti, Finland, showed an average efficiency increase of 20-25%. This technological leap, protected by a series of patents, changed the rules of cooling in 2010.
 
-
-
 3. **Switzerland: A Permanent Laboratory**
 
 Switzerland was a source of excellence. Enex, together with partners like Frigoconsulting and Kaeltering,  perfected the integration of the ejector and the economizer circuit between 2011 and 2012. After the first experiments in Finland made by Enex with Huurre , some very interesting field tests were done. First of all one installation in Bulle, near Gruyere, then one installation near Luzern (Schwitz) followed by several others. Initially Enex produced directly the ejectors based on a design made by Sintef and specialists in fluid dynamic from Poland. More alternatives became soon available. Starting 2015 Danfoss developed the "multiejector", an industrial breakthrough. Carrier and Carel developed the step-motor controlling mechanism for their ejector. The configurations developed  solved a limitation: they allowed the ejector to operate continuously and stably in all environmental conditions, without the need for complex control devices. In Switzerland the cooperation between Frigoconsulting, Kaeltering and Enex allowed to make preliminary tests with other devices, like for example with an expander. However the ejector, theoretically less efficient, was superior due to intrinsic simplicity and reliability.
@@ -263,17 +226,11 @@ Switzerland was a source of excellence. Enex, together with partners like Frigoc
 
 **2013: Expansion of CO2 to eastern countries.**
 
-**** 
-
 Thanks to the prestige earned through Swiss and Scandinavian installations, the “Eastern Europe” market unexpectedly opened up. In reality the business came from French and German large retailers who decided to use CO2 in Romania and Poland for some hypermarkets. Advansor, Enex and Green&Cool (Carrier) were initially the competing suppliers for these installations.
-
-
 
 **Beyond the CO2 Equator – Southern Europe and Total Integration**
 
 For years, the refrigeration sector—historically very conservative—fueled strong skepticism against carbon dioxide. In the beginning, "experts" were saying that CO2 was simply not suitable for refrigeration at all. A few years later, faced with the evidence of the first successful plants, the criticism shifted: it was said to be a solution limited to the cold climates of Northern Europe. Detractors even spoke of a "CO2 Equator," an imaginary latitudinal boundary below which the technology would never be cost-effective. The challenge in that period was to tear down these prejudices, proving that with the right technical architecture (optimized cycles and ejectors), R744 was competitive even under the Mediterranean sun.
-
-
 
 **1.    Conquering Southern and Eastern Europe**
 
@@ -281,31 +238,17 @@ The turning point for the expansion in the southern Europe was 2013.The success 
 
 In 2014 the new F-gas regulation was in preparation. It entered in force 1st of January 2015. It introduced clear limitations to the use of syntetic refrigerants, finally convincing most of the users that natural fluids were the right choice for the future. Of course CO2, being no toxic and non flammable, was the candidate for retail refrigeration and light industrial refrigeration.
 
-
-
 2014-2019
-
-**** 
 
 **Italy and the "All-in-One" System**
 
-
-
 Another decisive chapter opened in 2014 in Trentino-Alto Adige. Collaborating with Realtime, a trusted local installer for a major regional retailer, Enex began implementing revolutionary combined systems. It was no longer just about "making things cold": the central unit was now capable of simultaneously producing refrigeration, space heating and cooling. Summer air conditioning was integrated into the system, transforming the refrigeration rack into the true energy heart of the building.
-
-
-
-&nbsp;
 
 **The Chiller with Flooded Evaporator**
 
 In 2016, Enex introduced a radically new chiller design based on the principle of the gravity-flooded evaporator, new for CO2, but well known in industrial ammonia systems. Installations for skating rinks were done in Scandinavia by Green&Cool and Huurre, and by all the companies in general in light-industrial plants. A new sector for CO2 chillers was the north-Italian wineries, introducing environmental advantages in this demanding sector. Shortly after it was introduced a variant of gravity-fed chillers featuring the ejector—another Enex invention. This adjustment allowed for an efficiency improvement of approximately 10% specifically during peak thermal conditions, where CO2 refrigerant chillers typically struggle the most.
 
-
-
 **Zero-Cost Heat: Heat Pumps and High-Temperature Recovery**
-
-**** 
 
 One of the most interesting thermodynamic advantages of CO2 in the transcritical cycle is the gas temperature at the compressor discharge. While in traditional systems the discharged heat is at relatively low temperature and it is difficult to reuse, with CO2 the refrigerant temperature after compression can exceed 90-100°C.
 
@@ -313,11 +256,7 @@ Hot Water and Heating: since 2008 solutions were developed to recover part of th
 
 Total Integration: In modern supermarkets, the new units eliminated the need for gas boilers or separate systems. Essentially, the heat "extracted" from the refrigerated display cases to preserve food becomes the resource used to heat the store and the sanitary water. A perfect example of the circular economy applied to engineering.
 
-
-
 **The Future is Natural – The Market Opens to the World**
-
-
 
 Starting from 2016 more and more companies introduced gradually CO2 components and units to their range. After more than twenty years of technical challenges, doubts and successes, the reliability of CO2 systems was now a proven fact.
 
@@ -335,11 +274,7 @@ Basically the reasons for which the advantage of CO2 systems appeared evident we
 
 Between 2018 and 2019, demand surged further: the market no longer asked only for small systems, but for increasingly larger machines. The industry responded by exceeding the 1 MW cooling capacity threshold, paving the way for sectors that, until then, were dominated by traditional systems.
 
-
-
 **1.    The New Frontiers of CO2**
-
-
 
 Today, carbon dioxide competes on equal footing in large industrial plants, thanks to three fundamental applications:
 
@@ -348,8 +283,6 @@ Today, carbon dioxide competes on equal footing in large industrial plants, than
 - Integrated Systems (Energy Hubs)
 
  The refrigeration plant of the future does more than just preserve products; it is a "beating heart" that provides climate control for environments and heats upmwater, recovering every single watt that was once dissipated into the atmosphere.
-
-
 
 Conclusions: A Forward-Looking Vision
 
@@ -364,8 +297,6 @@ The journey of reintroducing CO2 leaves us with three fundamental reflections:
 3. The Value of the Natural Choice: Investing in natural solutions is the only choice that proves truly rewarding in the medium and long term. Looking back, the choice made thirty years ago was not just a technical experiment: it was the correct direction for a truly sustainable cooling industry.
 
 **Efficiency improvement with CO2 refrigeration systems**
-
-
 
 Since the beginning of the use of CO2, in 1920s, many studies have been done to improve cycle efficiency under conditions of high temperature sink side, as low critical temperature penalizes this refrigerant in high temperature ambient conditions, of course when ambient air is the fluid used for heat removal high pressure side. This argument is interesting now due to high summer temperatures in Europe. The modified cycles analyzed were, briefly, of this type:
 
@@ -387,15 +318,11 @@ h) ejectors for semi-flooded feeding of evaporators
 
 i)  flash gas pre-compression with ejector
 
-
-
 If one has to decide where to invest to reduce losses not only it is important the amount of reduction, but also how many hours during the year the losses are significant. For example it is possible to reduce the throttling losses with an ejector, but in some areas the hours during which the practical effect is negligeable are simply too much. Economically it is better to invest to eliminate first the losses due to temperature difference at the evaporator (source) and high pressure heat exchanger (sink) as they are present all the year.
 
 It is mentioned above the expander, e). Today is not available yet a version fully proven. One expander must work with a 2-phase fluid, with obvious lubrication problems. Some trials were made but the result is not yet completely satisfactory.
 
 Moreover there is already available a simple (mechanically) expander device without moving parts – that is the ejector - with isentropic efficiency in the range of 0,5-0,6 circa in expansion process, so this is the reference to consider. As the ejector is a very reliable device the additional gain which could be obtained with an expander is probably not so significant.
-
-
 
 Separate considerations must be made for the Voorhees method, as I will say later.
 
@@ -407,11 +334,7 @@ Separate considerations must be made for the Voorhees method, as I will say late
 
 -        To implement some “clever” control strategies
 
-
-
 Another source of saving is obviously heat recovery.
-
-
 
 **Voorhees refrigeration cycle**
 
