@@ -64,7 +64,7 @@ Some of the secondary fluids proposed are difficult to believe today:
 
 - for low temperature new brines were proposed, for example some based on potassium acetate or potassium formiate
 - for MT the so-called Flo-ice was proposed, a mixture of ice and brine
-- Somebody mentioned for the first time CO2 as a phase changing brine, but the pressure appeared too high for the standard of that period. So one idea was to use it mixed with Acetone (a flammable fluid!).
+- Somebody mentioned for the first time CO2 as a phase changing brine, but the pressure appeared too high for the standard of that period. So one of the many ideas was to use CO2 mixed with Acetone (a flammable fluid!).
 
 No one of the above solutions or ideas was successful.
 
