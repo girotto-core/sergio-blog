@@ -272,7 +272,7 @@ The journey of reintroducing CO2 leaves us with three fundamental reflections:
 
 **Efficiency improvement with CO2 refrigeration systems**
 
-Since the beginning of the use of CO2, in 1920s, many studies have been done to improve cycle efficiency under conditions of high temperature sink side, as low critical temperature penalizes this refrigerant in high temperature ambient conditions, of course when ambient air is the fluid used for heat removal high pressure side. This argument is interesting now due to high summer temperatures in Europe. The modified cycles analyzed were, briefly, of this type:
+Since the beginning of the use of CO2, in 1920s, many studies have been done to improve cycle efficiency under conditions of high temperature sink side. Low critical temperature penalizes this refrigerant in high temperature ambient conditions, when ambient air is the fluid used for heat removal high pressure side. This argument is interesting now due to high summer temperatures in Europe. The modified cycles analyzed were, briefly, of this type:
 
 a) 2-stage compression, for evaporation temperatures below -20°C
 
