@@ -60,7 +60,7 @@ Above all, there was no clear direction—a total lack of ideas on how to solve 
 
 To reduce the charge of synthetic gases, some companies tried the path of indirect refrigeration systems: a reduced primary circuit cooled a secondary fluid (e.g. glycol water) to be pumped to the end users.
 
-For medium temperature systems technically it was quite simple. The problem was low temperature systems, as it was not possible to use calcium chloride, an “old” and well-known brine for low temperature, due to corrosion with copper.
+For medium temperature systems technically it was quite simple. The problem was instead low temperature systems, as it was not possible to use calcium chloride, an “old” and well-known brine for low temperature, due to corrosion with copper.
 
 Some of the secondary fluids proposed are difficult to believe today:
 
@@ -75,9 +75,9 @@ Field analysis revealed insurmountable physical and economic limits of indirect 
 Other drawbacks were:
 
 - Low reliability: The use of aggressive secondary fluids (such as potassium acetate) caused frequent corrosion.
-- Costs: Mechanical complexity and additional components made the systems more expensive and prone to failure.
+- Costs: Mechanical complexity and additional components made the systems much more expensive and prone to failure.
 
-Conclusion: Toward the CO2 Revolution
+**Conclusion: Toward the CO2 Revolution**
 
 By the late 1990s, it was clear that adding layers of complexity or seeking new synthetic molecules was not the final solution. While Southern Europe remained anchored to old patterns, news filtered in from Northern Europe regarding the use of carbon dioxide (CO2 or R744) as a phase-changing secondary fluid for low temperature systems, so as very low temperature (e.g.-30°C or lower) could allow to limit design pressure to 25 bar. Using CO2 not merely as a secondary fluid, but directly as the primary fluid—an idea that seemed obvious by that point—would not just be an evolution, but a revolution. In 1995, however, this meant embarking on a massive industrial effort: components had to be designed from scratch because they simply did not yet exist on the market.
 
