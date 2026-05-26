@@ -100,7 +100,7 @@ The work of Professor Gustav Lorentzen in Trondheim between the late 1980s and 1
 
 3. **1995: From Theory to Reality – The First Compressor for CO2**
 
-At the time, using CO2 in refrigeration was a beautiful theory without real machines. Quite simply, there were no components capable of withstanding those pressures, let alone compressors and valves suited for the purpose. The practical breakthrough came from a collaboration launched in 1995 between Costan (the company I worked for at the time) and Officine Mario Dorin. In 1996, the world’s first prototype of a semi-hermetic compressor for transcritical CO2 was born. The testing phase had an almost heroic, artisanal feel:
+At the time, using CO2 in refrigeration was a beautiful theory without real machines. Quite simply, there were no components capable of withstanding those pressures, let alone compressors and valves suited for the purpose. The practical breakthrough came from a collaboration launched in 1995 between Costan (the company I worked for at the time) and Officine Mario Dorin, after a meeting in Trondheim (myself, Petter Neksa and Jostein Pettersen). In 1996, the world’s first prototype of a semi-hermetic compressor for transcritical CO2 was born. The testing phase had an almost heroic, artisanal feel:
 
 - Tests were conducted outdoors, as equipped test rooms for managing such pressures did not yet exist.
 - The gas cooler and evaporator were “built by hand”
@@ -125,7 +125,7 @@ Moving from theory to commercial practice required a phased strategy. At the end
 
 In 1997, to accelerate the project's maturity, we introduced the first “subcritical” system with CO2 as a refrigerant. The idea was to use CO2 in direct expansion only for low temperature (LT, evaporating from -35 to -40°C), with a compressor in cascade with a conventional primary fluid, used for medium temperature users and chilled by brine chiller.
 
- - The Conegliano Success: At the "Bingo" supermarket in Conegliano (TV), we installed the world's first subcritical low-temperature system in cascade with an indirect system (R134a chiller). This milestone drew interest from technicians across Europe. Other installations followed, including one in the UK that utilized Propane for the medium-temperature chiller.
+- The Conegliano Success: At the "Bingo" supermarket in Conegliano (TV), we installed the world's first subcritical low-temperature system in cascade with an indirect system (R134a chiller). This milestone drew interest from technicians across Europe. Other installations followed, including one in the UK that utilized Propane for the medium-temperature chiller.
 
 - The Technical Lesson: Despite the enthusiasm, limits emerged: the dual circuit, circulation pumps, and additional heat exchange reduced efficiency and increased complexity and cost. It was a compromise that only solved maybe 30% of the environmental problem—in a supermarket context, only the low-temperature portion
 
@@ -135,10 +135,8 @@ The first subritical systems in retail sector were the spark for the introductio
 
 - We created a self-regulating mechanical system for high pressure control, as nothing existed on the market. The system used a differential valve, with DP circa 20 bar, maintaining such differential pressure between liquid surface in the receiver and high pressure, so approximating the optimal high pressure.
 
-  
 - We designed and built coaxial tube-in tube CO2/water heat exchangers sized for a CO2 pressure of 120 bar, building it by ourselves. The heat was discharged through a dry cooler
 
-  
 - Chemistry: We field-tested which lubricating oils were actually suitable and compatible.
 
 We were writing the rules of the game while we were playing it.
@@ -165,7 +163,7 @@ The company Bock had already available a very small trascritical "open type" com
 
 **The High Pressure control valve and Economizer: Optimizing Flash Gas**
 
-In 2006 Danfoss released some field test valves for high pressure control, that is the model ICMTS, derived from a valve from industrial refrigeration, together with a proper controller, EKC326. The new devices made it possible to apply a proper control of pressure in liquid receiver, different from the first systems with a floating intermediate pressure. Enex started experiments of an innovative concept for CO2 systems: the “economizer”.                                                                       
+In 2006 Danfoss released some field test valves for high pressure control, that is the model ICMTS, derived from a valve from industrial refrigeration, together with a proper controller, EKC326. The new devices made it possible to apply a proper control of pressure in liquid receiver, different from the first systems with a floating intermediate pressure. Enex started experiments of an innovative concept for CO2 systems: the “economizer”.                                                                     
 
 This device was designed to significantly improve machine efficiency when outdoor temperatures rise. In such conditions, flash vapor production increases; by using a two-stage expansion scheme and having an auxiliary compressor for suction of the flash vapor from intermediate receiver, we managed to drastically increase cycle performance. The first large-scale real-world application for a system with economizer followed in 2008, in Freiburg. The control of new design proved to be quite difficult, due to huge variation of flash vapor mass flow.
 
@@ -317,6 +315,6 @@ G.T. Voorhees was an American inventor who had proposed a modified reciprocating
 
 A significant increase in flow rate, and therefore in cooling capacity, could be obtained, as well as a slight increase in efficiency, at least according to the texts of the time (e.g. prof. Ostertag).
 
-I had the opportunity to test a compressor of this type, a prototype derived from the modification of a production compressor for CO2, some years ago and we noticed that the performance was higher than theoretical estimate. We measured about 10-15% higher EER (Energy Efficiency Ratio) than the standard cycle, as well as about 20% higher capacity.
+I had the opportunity to test a compressor of this type, a prototype derived from the modification of a production compressor for CO2, some years ago and we noticed that the performance was higher than theoretical estimate even if the design was far from optimal. We measured about 10-15% higher EER (Energy Efficiency Ratio) than the standard cycle, as well as about 20% higher capacity.
 
 The disadvantage was rather the difficulty of connecting two or more compressors of this type in parallel, because there was generally a pressure leakage through auxiliary port and crankcase when one of the compressors was stopped. However, such a system could be cost-effective with a single-compressor system. I think it is not easy, but the "rediscovery" of CO2 gives hope for a revisiting of this technology and a future industrial use of this method.
