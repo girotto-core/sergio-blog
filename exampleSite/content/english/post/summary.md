@@ -304,8 +304,7 @@ Separate considerations must be made for the Voorhees method, as I will say late
 - to avoid or limit losses that are normally neglected, such as leakage and pressure drops  
 - to limit electrical losses (consumption of electrical panel and control equipment)  
 - to limit the consumption of "auxiliary" components, such as oil heaters, fans and more
-
--        To implement some “clever” control strategies
+- to implement some “clever” control strategies
 
 Another source of saving is obviously heat recovery.
 
