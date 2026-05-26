@@ -13,7 +13,7 @@ The rediscovery of carbon dioxide (CO2) as a refrigerant began in the late 1980s
 
 Starting in 1996, the development of refrigeration systems using CO2 began in **Italy**. This application had not been initially considered, as it was deemed complex and seemed commercially unattractive. Having personally participated in this evolution as one of the key figures, I would like to use this blog to reconstruct the history of CO2 refrigeration system. 
 
-**Acknowledgements.** The persons listed below have contributed substantially to the events described in this history. A big “thank you “ to all of them.
+**Acknowledgements.** The persons listed below have contributed substantially to the events described in this history. A big “thank you“ to all of them.
 
 Silvia Minetto - ITC-CNR (I)
 
