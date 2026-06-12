@@ -9,7 +9,7 @@ summary = 'a brief summary of the story, starting 1985 until 2020 circa'
 
 **S.Girotto**
 
-The rediscovery of carbon dioxide (CO2) as a refrigerant began in the late 1980s. Following an initial research phase that lasted until the early 1990s and the subsequent development of prototypes, production of machinery finally commenced in the early 2000s. The research originated at the **University of Trondheim** (Norway), spearheaded by **Professor Lorentzen** (1915-1995). Initially, the research focused on developing small heat pumps for domestic hot water. These studies led the renowned Japanese company **Denso** to develop "Ecocute" heat pumps, quickly followed by other Japanese manufacturers. The next phase of research concerned Mobile Air Conditioning (MAC) systems, though this did not lead to immediate industrialization. It is worth to mention the company Obrist, as one of main actors in this developement. They produced several prototypes of Mobile air conditioning systems with CO2 for large car manufacturers, already in the year 2005 circa.
+The rediscovery of carbon dioxide (CO2) as a refrigerant began in the late 1980s. Following an initial research phase that lasted until the early 1990s and the subsequent development of prototypes, production of machinery finally commenced in the early 2000s. The research originated at the **University of Trondheim** (Norway), spearheaded by **Professor Lorentzen** (1915-1995). Initially, the research focused on developing small heat pumps for domestic hot water. These studies led the renowned Japanese company **Denso** to develop "Ecocute" heat pumps around year 2000, quickly followed by other Japanese manufacturers. The next phase of research concerned Mobile Air Conditioning (MAC) systems, though this did not lead to immediate industrialization. It is worth to mention, in this regard, the company Obrist as one of main actors in this developement. They produced several prototypes of Mobile air conditioning systems with CO2 for large car manufacturers, already in the year 2005 circa.
 
 Starting in 1996, the development of refrigeration systems using CO2 began in **Italy**. This application had not been initially considered, as it was deemed complex and seemed commercially unattractive. Having personally participated in this evolution as one of the key figures, I would like to use this blog to reconstruct the history of CO2 refrigeration system. 
 
@@ -126,7 +126,6 @@ Moving from theory to commercial practice required a phased strategy. At the end
 In 1997, to accelerate the project's maturity, we introduced the first “subcritical” system with CO2 as a refrigerant. The idea was to use CO2 in direct expansion only for low temperature (LT, evaporating from -35 to -40°C), with a compressor in cascade with a conventional primary fluid, used for medium temperature users and chilled by brine chiller.
 
 - The Conegliano Success: At the "Bingo" supermarket in Conegliano (TV), we installed the world's first subcritical low-temperature system in cascade with an indirect system (R134a chiller). This milestone drew interest from technicians across Europe. Other installations followed, including one in the UK that utilized Propane for the medium-temperature chiller.
-
 - The Technical Lesson: Despite the enthusiasm, limits emerged: the dual circuit, circulation pumps, and additional heat exchange reduced efficiency and increased complexity and cost. It was a compromise that only solved maybe 30% of the environmental problem—in a supermarket context, only the low-temperature portion
 
 **2.    Year 2000: The World's First Transcritical System**
@@ -134,9 +133,7 @@ In 1997, to accelerate the project's maturity, we introduced the first “subcri
 The first subritical systems in retail sector were the spark for the introduction of CO2 cascade also in industrial refrigeration, using ammonia for the brine chiller, for example.  In the meantime we had, at Costan, the possibility to build a proper circuit for testing transcritical compressors, after gaining one project financed partly by Italian Ministery of Research. The true "evolutionary leap" happened near Pordenone, always in Italy, in the year 2000. Here, we built the first transcritical system of a new type in the world: a single-stage, CO2-only, system. We literally had to invent what was missing:
 
 - We created a self-regulating mechanical system for high pressure control, as nothing existed on the market. The system used a differential valve, with DP circa 20 bar, maintaining such differential pressure between liquid surface in the receiver and high pressure, so approximating the optimal high pressure.
-
 - We designed and built coaxial tube-in tube CO2/water heat exchangers sized for a CO2 pressure of 120 bar, building it by ourselves. The heat was discharged through a dry cooler
-
 - Chemistry: We field-tested which lubricating oils were actually suitable and compatible.
 
 We were writing the rules of the game while we were playing it.
