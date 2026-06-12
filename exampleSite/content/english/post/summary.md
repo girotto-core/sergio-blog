@@ -37,7 +37,7 @@ Finally, a special “thank you” to eng. Mario Dorin 
 
 **1.    Introduction: The Era of Natural Fluids and the Advent of Synthetics**
 
-Mechanical refrigeration took its first steps around 1850. Until 1930, systems exclusively used natural fluids, including ammonia, sulfur dioxide, and carbon dioxide. A major turning point occurred around 1930 with the synthesis of the first artificial refrigerants, such as R12 and R11. These "miracle" molecules quickly replaced most of the natural fluids in use, with the exception of ammonia, which remained the standard in large industrial plants. It was only fifty years later that the truth emerged: those synthetic substances that made refrigeration systems so simple and efficient were damaging the environment.
+Mechanical refrigeration took its first steps around 1850. Until 1930, refrigeration systems exclusively used natural fluids, including ammonia, sulfur dioxide, and carbon dioxide. A major turning point occurred around 1930 with the synthesis of the first artificial refrigerants, such as R12 and R11. These "miracle" molecules quickly replaced most of the natural fluids in use, with the exception of ammonia, which remained the standard in large industrial plants. It was only fifty years later that the truth emerged: those synthetic substances that made refrigeration systems so simple and efficient were damaging the environment.
 
 **2.    The Montreal Protocol: An Industrial Earthquake**
 
