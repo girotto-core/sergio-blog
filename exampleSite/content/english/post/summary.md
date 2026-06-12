@@ -125,7 +125,7 @@ Moving from theory to commercial practice required a phased strategy. At the end
 
 In 1997, to accelerate the project's maturity, we introduced the first “subcritical” system with CO2 as a refrigerant. The idea was to use CO2 in direct expansion only for low temperature (LT, evaporating from -35 to -40°C), with a compressor in cascade with a conventional primary fluid, used for medium temperature users and chilled by brine chiller.
 
-- The Conegliano Success: At the "Bingo" supermarket in Conegliano (TV), we installed the world's first subcritical low-temperature system in cascade with an indirect system (R134a chiller). This milestone drew interest from technicians across Europe. Other installations followed, including one in the UK that utilized Propane for the medium-temperature chiller.
+- The Conegliano Success: At the "Bingo" supermarket in Conegliano (TV), we installed the world's first subcritical low-temperature system in cascade with an indirect system (R134a chiller). This milestone drew interest from technicians across Europe. Other installations followed, including one in the UK using Propane for the medium-temperature chiller.
 - The Technical Lesson: Despite the enthusiasm, limits emerged: the dual circuit, circulation pumps, and additional heat exchange reduced efficiency and increased complexity and cost. It was a compromise that only solved maybe 30% of the environmental problem—in a supermarket context, only the low-temperature portion
 
 **2.    Year 2000: The World's First Transcritical System**
