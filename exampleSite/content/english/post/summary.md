@@ -100,12 +100,12 @@ The work of Professor Gustav Lorentzen in Trondheim between the late 1980s and 1
 
 3. **1995: From Theory to Reality – The First Compressor for CO2**
 
-At the time, using CO2 in refrigeration was a beautiful theory without real machines. Quite simply, there were no components, in refrigeration, capable of withstanding those pressures, let alone compressors and valves suited for the purpose. The practical breakthrough came from a collaboration launched in 1995 between Costan (the company I worked for at the time) and Officine Mario Dorin, after a meeting in Trondheim (myself, Petter Neksa and Jostein Pettersen). In 1996, the world’s first prototype of a semi-hermetic compressor for transcritical CO2 was born. The testing phase had an almost heroic, artisanal feel:
+At the time, using CO2 in refrigeration was a beautiful theory without real machines. Quite simply, there were no components, in refrigeration, capable of withstanding those pressures, let alone compressors and valves suited for the purpose. The practical breakthrough came from a collaboration launched in 1995 between Costan (the company I worked for at the time) and Officine Mario Dorin, after a meeting in Trondheim (myself and Peer Samuelsen for Costan and Petter Neksa and Jostein Pettersen from Sintef). In summer 1996 the world’s first prototype of a semi-hermetic compressor for transcritical CO2 was born. The testing phase had an almost heroic, artisanal feel:
 
 - Tests were conducted outdoors, as equipped test rooms for managing such pressures did not yet exist.
 - The gas cooler and evaporator were “built by hand”
 - Valves were "borrowed" from the hydraulic sector
-- Lubrication problems were solved directly in the field through continuous adjustments.
+- Lubrication issues were solved directly in the field through continuous adjustments.
 
 The results however were clear: the compressor performed excellently, and the machine "produced cold". Above all, we proved that managing high pressures was not an impossible task.
 
