@@ -132,7 +132,7 @@ In 1997, to accelerate the project's maturity, we introduced the first “subcri
 
 The first subritical systems in retail sector were the spark for the introduction of CO2 cascade also in industrial refrigeration, using ammonia for the brine chiller, for example.  In the meantime we had, at Costan, the possibility to build a proper circuit for testing transcritical compressors, after gaining one project financed partly by Italian Ministery of Research. The true "evolutionary leap" happened near Pordenone, always in Italy, in the year 2000. Here, we built the first transcritical system of a new type in the world: a single-stage, CO2-only, system. We literally had to invent what was missing:
 
-- We created a self-regulating mechanical system for high pressure control, as nothing existed on the market. The system used a differential valve, with DP circa 20 bar, maintaining such differential pressure between liquid surface in the receiver and high pressure, so approximating the optimal high pressure.
+- We created a self-regulating mechanical system for high pressure control, as nothing existed on the market. The system used a differential valve, with DP circa 20 bar, maintaining such differential pressure between liquid surface in the receiver and high pressure, so approximating the optimal high pressure in a wide range of external temperatures.
 - We designed and built coaxial tube-in tube CO2/water heat exchangers sized for a CO2 pressure of 120 bar, building it by ourselves. The heat was discharged through a dry cooler
 - Chemistry: We field-tested which lubricating oils were actually suitable and compatible.
 
