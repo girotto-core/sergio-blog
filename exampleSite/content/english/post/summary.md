@@ -1,6 +1,6 @@
 +++
 title = 'History of one innovation'
-date = '2026-06-25'
+date = '2026-06-11'
 author = 'S.Girotto'
 description = 'Rediscovery of CO2 refrigeration'
 summary = 'a brief summary of the story, starting 1985 until 2020 circa'
