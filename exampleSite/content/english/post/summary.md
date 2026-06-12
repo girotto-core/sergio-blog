@@ -79,7 +79,7 @@ Other drawbacks were:
 
 **Conclusion: Toward the CO2 Revolution**
 
-By the late 1990s, it was clear that adding layers of complexity or seeking new synthetic molecules was not the final solution. While Southern Europe remained anchored to old patterns, news filtered in from Northern Europe regarding the use of carbon dioxide (CO2 or R744) as a phase-changing secondary fluid for low temperature systems, so as very low temperature (e.g.-30°C or lower) could allow to limit design pressure to 25 bar. Using CO2 not merely as a secondary fluid, but directly as the primary fluid—an idea that seemed obvious by that point—would not just be an evolution, but a revolution. In 1995, however, this meant embarking on a massive industrial effort: components had to be designed from scratch because they simply did not yet exist on the market.
+By the late 1990s, it was clear that adding layers of complexity or seeking new synthetic molecules was not the final solution. While Southern Europe remained anchored to old patterns, news filtered in from Northern Europe regarding the use of carbon dioxide (CO2 or R744) as a phase-changing secondary fluid for low temperature systems, so as very low temperature (e.g.-30°C or lower) could allow to limit design pressure to 25 bar. Using CO2 not merely as a secondary fluid, but directly as the primary fluid—an idea that seemed obvious at that point—would not just be an evolution, but a revolution. In 1995, however, this meant embarking on a massive industrial effort: components had to be designed from scratch because they simply did not yet exist on the market.
 
 1995-1996
 
@@ -100,7 +100,7 @@ The work of Professor Gustav Lorentzen in Trondheim between the late 1980s and 1
 
 3. **1995: From Theory to Reality – The First Compressor for CO2**
 
-At the time, using CO2 in refrigeration was a beautiful theory without real machines. Quite simply, there were no components capable of withstanding those pressures, let alone compressors and valves suited for the purpose. The practical breakthrough came from a collaboration launched in 1995 between Costan (the company I worked for at the time) and Officine Mario Dorin, after a meeting in Trondheim (myself, Petter Neksa and Jostein Pettersen). In 1996, the world’s first prototype of a semi-hermetic compressor for transcritical CO2 was born. The testing phase had an almost heroic, artisanal feel:
+At the time, using CO2 in refrigeration was a beautiful theory without real machines. Quite simply, there were no components, in refrigeration, capable of withstanding those pressures, let alone compressors and valves suited for the purpose. The practical breakthrough came from a collaboration launched in 1995 between Costan (the company I worked for at the time) and Officine Mario Dorin, after a meeting in Trondheim (myself, Petter Neksa and Jostein Pettersen). In 1996, the world’s first prototype of a semi-hermetic compressor for transcritical CO2 was born. The testing phase had an almost heroic, artisanal feel:
 
 - Tests were conducted outdoors, as equipped test rooms for managing such pressures did not yet exist.
 - The gas cooler and evaporator were “built by hand”
